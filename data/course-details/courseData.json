@@ -1255,6 +1255,411 @@
           "cate": "Tour & Travel"
         }
       ]
+    },
+
+    {
+      "id": 4,
+      "courseTitle": "Graphic Designing Intermediate",
+      "category": "Digital Marketing",
+      "courseType": "featured",
+      "desc": "This comprehensive course takes you through the fundamentals and advanced techniques of four essential graphic design tools: Adobe Photoshop, Illustrator, InDesign, and CorelDRAW. Gain hands-on experience in designing, editing, and preparing projects for both print and digital platforms.",
+      "lesson": 5,
+      "review": 15,
+      "price": 40000,
+      "offPrice": 30000,
+      "student": 30,
+      "discount": 10000,
+      "sellsType": "Bestseller",
+      "star": "4.9",
+      "ratingNumber": "475",
+      "studentNumber": "029",
+      "cateSmallImg": "/images/category/web-design.png",
+      "cateBigImg": "/images/category/image/web-design.jpg",
+      "userImg": "/images/client/avatar-02.png",
+      "courseImg": "/images/course/course-01.jpg",
+      "courseListImg": "/images/course/course-list-01.jpg",
+      "awardImg": "/images/icons/card-icon-1.png",
+      "days": "12",
+      "isActiveCate": true,
+      "userName": " Christin P J ",
+      "userCategory": "Marketing",
+      "cateDesc": "",
+      "date": " 12/2024",
+      "language": "English",
+      "courseAward": "Certified Course",
+      "courseFor": [
+        "Marketing"
+      ],
+      "courseOverview": [
+        {
+          "title": "What you'll learn",
+          "desc": "The Graphic Design Mastery Program is your ultimate path to becoming a professional graphic designer, mastering industry-leading tools, and gaining hands-on experience with essential design techniques. Whether you're a beginner or at an intermediate level, this program is meticulously crafted to take you on a transformative journey through the core principles of graphic design. With practical applications and real-world projects, you'll develop the confidence and skill to excel in the competitive design industry.",
+          "descTwo": "A comprehensive graphic design course covering Photoshop, Illustrator, CorelDRAW, and InDesign to help you master the art of visual storytelling and professional design creation.",
+          "overviewList": [
+            {
+              "listItem": "Comprehensive Training Across Design Tools: Master industry-leading software, including Adobe Photoshop, Illustrator, CorelDRAW, and InDesign, along with Figma for UI/UX design basics."
+            },
+            {
+              "listItem": "Structured Learning Path: A 3-month program designed for beginners and intermediate learners, progressing from foundational concepts to advanced graphic design techniques."
+            },
+            {
+              "listItem": "Portfolio-Ready Projects: Work on hands-on projects, such as photo compositions, brand identity kits, and professional publication designs, to build a standout portfolio."
+            },
+            {
+              "listItem": "Portfolio-Driven Learning: Complete real-world design projects for each module, building a professional portfolio that demonstrates your skills in print and digital media."
+            },
+            {
+              "listItem": "Industry-Relevant Curriculum: Learn essential skills like photo editing, vector illustration, logo design, and layout creation, tailored for real-world applications."
+            },
+            {
+              "listItem": "Expert Mentorship: Gain insights and guidance from seasoned professionals with extensive experience in branding, UI/UX, and digital and print media."
+            },
+            {
+              "listItem": "Certified Career Advancement: Enhance your professional credentials with a verified Certificate of Completion, demonstrating your proficiency in graphic design to potential employers."
+            }
+          ]
+        }
+      ],
+      "courseContent": [
+        {
+          "title": "Course Content",
+          "contentList": [
+            {
+              "title": "Photoshop",
+              "time": "1 Week",
+              "collapsed": true,
+              "isShow": true,
+              "expand": true,
+              "listItem": [
+                {
+                  "text": "Introduction to Tools, Layers, and File Types.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Typography and Color Theory.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Photo Editing and Retouching Techniques",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Final Project: Portfolio-ready Photo Composition.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": " Illustrator",
+              "time": "4 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Vector Graphics Creation and Editing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Logo Design Fundamentals.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Color, Gradients, and Text Effects.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Final Project: Brand Identity Kit.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "CorelDRAW",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Workspace and Basic Drawing Tools.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Layers, Text, and Object Management.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Complex Artwork and Portfolio Presentation.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "InDesign",
+              "time": "3 Week",
+              "collapsed":false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Layout and Document Setup.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Working with Images, Typography, and Colors.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Final Project: Professional Publication Design",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "courseRequirement": [
+        {
+          "title": "Benefits",
+          "detailsList": [
+            {
+              "listItem": "Master Adobe Photoshop, Illustrator, CorelDRAW, and InDesign."
+            },
+            {
+              "listItem": "Develop a professional-grade design portfolio."
+            },
+            {
+              "listItem": "Hands-on projects with real-world applications."
+            },
+            {
+              "listItem": "Learn from expert mentors with years of industry experience."
+            },
+            {
+              "listItem": "Earn a certificate of completion to boost your career."
+            }
+          ]
+        }
+      ],
+      "courseInstructor": [
+        {
+          "title": "Instructor",
+          "body": [
+            {
+              "id": 1,
+              "img": "/images/client/avatar-02.png",
+              "awardImg": "/images/icons/card-icon-1.png",
+              "sellsType": "Bestseller",
+              "contact": "+91 81380 60010",
+              "mail": "info@skillersity.com",
+              "name": "Christin P J",
+              "type": "Digital Marketing Expert",
+              "ratingNumber": "25",
+              "studentNumber": "30 ",
+              "review": "10",
+              "star": "4.9",
+              "course": "4",
+              "desc": "Christin is a brilliant educator, whose life was spent for Digital Marketing and love of Ai and Analytics.",
+              "social": [
+                {
+                  "link": "#",
+                  "icon": "facebook"
+                },
+                {
+                  "link": "#",
+                  "icon": "twitter"
+                },
+                {
+                  "link": "#",
+                  "icon": "instagram"
+                },
+                {
+                  "link": "#",
+                  "icon": "linkedin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "featuredReview": [
+        {
+          "title": "Featured review",
+          "body": [
+            {
+              "userImg": "/images/testimonial/testimonial-3.jpg",
+              "userName": "Farjana Bawnia",
+              "desc": "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            }
+          ]
+        }
+      ],
+      "relatedCourse": [
+        {
+          "userName": " Mudassir Nazar ",
+          "userCategory": "Designing",
+          "body": [
+            {
+              "id": 1,
+              "title": "Advanced Digital Marketing",
+              "author": "Christin P J",
+              "post": " Digital Marketing",
+              "link": "/course-details",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            }
+          ]
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Hrs 20 Min"
+        },
+        {
+          "text": "Enrolled",
+          "desc": "100"
+        },
+        {
+          "text": "Lectures",
+          "desc": "50"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Language",
+          "desc": "English"
+        },
+        {
+          "text": "Quizzes",
+          "desc": "10"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Pass Percentage",
+          "desc": "95"
+        }
+      ],
+      "similarCourse": [
+        {
+          "id": 1,
+          "title": "React Front To Back",
+          "author": "Angela",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-01.jpg",
+          "avatar": "/images/client/avatar-02.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": false,
+          "rating": 15,
+          "discount": 40,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 2,
+          "title": "PHP Beginner Advanced",
+          "author": "Claudia Pruitt",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-02.jpg",
+          "avatar": "/images/client/avatar-04.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": true,
+          "rating": 15,
+          "discount": 0,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 3,
+          "title": "Angular Zero to Mastery",
+          "author": "Slaughter",
+          "post": "Languages",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-03.jpg",
+          "avatar": "/images/client/avatar-03.png",
+          "desc": "Angular Js long fact that a reader will be distracted by the readable.",
+          "button": false,
+          "rating": 5,
+          "discount": 10,
+          "lesson": 8,
+          "student": 30,
+          "price": 80,
+          "offPrice": 100
+        }
+      ],
+      "subCategories": [
+        {
+          "cate": "Healthcare"
+        },
+        {
+          "cate": "Beauty & fashion"
+        },
+        {
+          "cate": "Education & Travel"
+        },
+        {
+          "cate": "Kitchen"
+        },
+        {
+          "cate": "Medicle & entertain"
+        },
+        {
+          "cate": "Medicle & Science"
+        },
+        {
+          "cate": "Tour & Travel"
+        }
+      ]
     }
   ],
   "courseTab": [
