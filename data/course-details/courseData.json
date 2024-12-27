@@ -812,7 +812,7 @@
     },
     {
       "id": 3,
-      "courseTitle": "Graphic Designing Advanced",
+      "courseTitle": "Graphic Designing - Advanced",
       "category": "Creator Courses",
       "courseType": "featured",
       "desc": "This comprehensive course takes you through the fundamentals and advanced techniques of four essential graphic design tools: Adobe Photoshop, Illustrator, InDesign, and CorelDRAW. Gain hands-on experience in designing, editing, and preparing projects for both print and digital platforms.",
@@ -1259,8 +1259,8 @@
 
     {
       "id": 4,
-      "courseTitle": "Graphic Designing Intermediate",
-      "category": "Digital Marketing",
+      "courseTitle": "Graphic Designing - Intermediate",
+      "category": "Creator Course",
       "courseType": "featured",
       "desc": "This comprehensive course takes you through the fundamentals and advanced techniques of four essential graphic design tools: Adobe Photoshop, Illustrator, InDesign, and CorelDRAW. Gain hands-on experience in designing, editing, and preparing projects for both print and digital platforms.",
       "lesson": 5,
