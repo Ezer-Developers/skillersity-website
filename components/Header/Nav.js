@@ -64,11 +64,18 @@ const Nav = () => {
                 })}
               <div className="row row--15">
                 <CourseLayout
-                  courseTitle="Course Layout"
+                  courseTitle="Our Courses"
                   MenuData={MenuData}
                   type="grid-item-2"
                   courseType={true}
                   num={7}
+                />
+                <CourseLayout
+                  courseTitle="Our Courses"
+                  MenuData={MenuData}
+                  type="grid-item-2"
+                  courseType={false}
+                  num={6}
                 />
               </div>
               <div className="row">

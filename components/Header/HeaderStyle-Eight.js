@@ -11,13 +11,13 @@ const HeaderStyleEight = () => {
       <DarkSwitch isLight={isLightTheme} switchTheme={toggleTheme} />
       <header className="rbt-header rbt-dark-header-8 rbt-header-8 rbt-transparent-header">
         <div className="rbt-sticky-placeholder"></div>
-        <HeaderTopSeven
+        {/* <HeaderTopSeven
           gapSpaceBetween="header-space-betwween"
           bgColor="bg-color-transparent"
           flexDirection=""
           btnClass="rbt-switch-btn btn-gradient btn-xs"
           btnText="Call us now"
-        />
+        /> */}
 
         <HeaderSix
           sticky="header-sticky"
