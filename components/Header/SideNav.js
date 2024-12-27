@@ -125,12 +125,12 @@ const SideNav = () => {
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/">
+                <a href="#/">
                   <i className="feather-instagram"></i>
                 </a>
               </li>
               <li>
-                <a href="https://www.linkdin.com/">
+                <a href="#/">
                   <i className="feather-linkedin"></i>
                 </a>
               </li>

@@ -171,12 +171,12 @@ const Viedo = ({ checkMatchCourses }) => {
                 </Link>
               </li>
               <li>
-                <Link href="https://www.instagram.com/">
+                <Link href="#/">
                   <i className="feather-instagram"></i>
                 </Link>
               </li>
               <li>
-                <Link href="https://www.linkdin.com/">
+                <Link href="#/">
                   <i className="feather-linkedin"></i>
                 </Link>
               </li>

@@ -157,16 +157,16 @@
       ],
       "menuItems": [
         {
-          "title": "AI Based Digital Marketing",
+          "title": "Video Editing - Intermediate",
           "link": "/course-details/1"
         },
         {
-          "title": "Video Editing",
-          "link": "/course-filter-one-open"
+          "title": "Video Editing - Advanced",
+          "link": "/course-details/2"
         },
         {
-          "title": "Graphic Designing",
-          "link": "/course-filter-two-toggle"
+          "title": "Video Editing - Intermediate",
+          "link": "/course-details/3"
         }
       ]
     },

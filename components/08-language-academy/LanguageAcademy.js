@@ -49,7 +49,7 @@ const LanguageAcademy = ({ blogs }) => {
                     <h1 className="title">
                       Advancing
                       <span className="theme-gradient"> Your Career with</span> Practical Learning</h1>
-                    <div className="rbt-like-total">
+                    {/* <div className="rbt-like-total">
                       <div className="profile-share">
                         <Link
                           href="#"
@@ -99,13 +99,13 @@ const LanguageAcademy = ({ blogs }) => {
                           </p>
                         </div>
                       </div>
-                    </div>
+                    </div> */}
                     <div className="rbt-button-group justify-content-start mt--30">
                       <Link
                         className="rbt-btn btn-gradient rbt-switch-btn"
                         href="#"
                       >
-                        <span data-text="Sign Up Now">Sign Up Now</span>
+                        <span data-text="Sign Up Now">Enquire Now</span>
                       </Link>
                       <Link
                         className="rbt-btn btn-border rbt-switch-btn"
@@ -127,7 +127,7 @@ const LanguageAcademy = ({ blogs }) => {
                       alt="Education Images"
                     />
                   </div>
-                  <div className="card-info bounce-slide">
+                  {/* <div className="card-info bounce-slide">
                     <div className="inner">
                       <div className="name">
                         Hillery. <span>/ USA</span>
@@ -151,7 +151,7 @@ const LanguageAcademy = ({ blogs }) => {
                         alt="Client Images"
                       />
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

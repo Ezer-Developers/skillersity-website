@@ -111,7 +111,7 @@ social: [
   },
   {
     icon: "feather-instagram",
-    url: "https://www.instagram.com"
+    url: "#"
   },
   {
     icon: "feather-linkedin",
@@ -131,7 +131,7 @@ author: [
             },
             {
               icon: "feather-instagram",
-              url: "https://www.instagram.com"
+              url: "#"
             },
             {
               icon: "feather-linkedin",

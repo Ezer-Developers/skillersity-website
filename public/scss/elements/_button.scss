@@ -112,7 +112,7 @@ fieldset:disabled {
     &.btn-gradient {
         color: var(--color-white);
         background-size: 300% 100%;
-        background-image: linear-gradient(to right, #567C8D, #cdcdcd, #cdcdcd, #567C8D);
+        background-image: linear-gradient(to right,var(--color-primary),var(--color-secondary),var(--color-secondary),var(--color-primary));
 
         &.btn-gradient-2 {
             background-image: linear-gradient(to right, var(--color-pink), var(--color-violet), var(--color-violet), var(--color-pink));

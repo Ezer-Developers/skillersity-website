@@ -78,7 +78,7 @@
         },
         {
           "icon": "feather-instagram",
-          "url": "https://www.instagram.com"
+          "url": "#"
         },
         {
           "icon": "feather-linkedin",
@@ -102,7 +102,7 @@
             },
             {
               "icon": "feather-instagram",
-              "url": "https://www.instagram.com"
+              "url": "#"
             },
             {
               "icon": "feather-linkedin",

@@ -51,7 +51,7 @@ const TeamThree = () => {
                             </Link>
                           </li>
                           <li>
-                            <Link href="https://www.instagram.com/">
+                            <Link href="#/">
                               <i className="feather-instagram"></i>
                             </Link>
                           </li>

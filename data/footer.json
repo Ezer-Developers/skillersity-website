@@ -60,11 +60,11 @@
         },
         {
           "icon": "feather-instagram",
-          "link": "https://www.instagram.com/"
+          "link": "#/"
         },
         {
           "icon": "feather-linkedin",
-          "link": "https://www.linkdin.com/"
+          "link": "#/"
         }
       ]
     }
@@ -131,11 +131,11 @@
         },
         {
           "icon": "feather-instagram",
-          "link": "https://www.instagram.com/"
+          "link": "#/"
         },
         {
           "icon": "feather-linkedin",
-          "link": "https://www.linkdin.com/"
+          "link": "#/"
         }
       ]
     }

@@ -10,10 +10,7 @@ const RelatedCourse = ({ checkMatchCourses }) => {
           <div className="section-title">
             <span className="subtitle bg-pink-opacity">Top Course</span>
             <h4 className="title">
-              More Course By
-              <strong className="color-primary ms-3">
-                {checkMatchCourses.userName}
-              </strong>
+              More Course For You
             </h4>
           </div>
         </div>
