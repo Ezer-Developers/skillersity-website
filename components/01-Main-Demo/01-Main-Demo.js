@@ -60,7 +60,7 @@ const MainDemo = ({ blogs }) => {
                     Top Popular Course
                   </span>
                   <h2 className="title">
-                    Histudy Course student <br /> can join with us.
+                    Skillersity Course student <br /> can join with us.
                   </h2>
                 </div>
               </div>
@@ -83,7 +83,7 @@ const MainDemo = ({ blogs }) => {
                     href="#"
                   >
                     <span className="icon-reverse-wrapper">
-                      <span className="btn-text">Load More Course (40)</span>
+                      <span className="btn-text">Load More Courses</span>
                       <span className="btn-icon">
                         <i className="feather-arrow-right"></i>
                       </span>
@@ -126,7 +126,7 @@ const MainDemo = ({ blogs }) => {
                       EDUCATION FOR EVERYONE
                     </span>
                     <h2 className="title">
-                      People like histudy education. <br /> No joking - here’s
+                      People like Skillersity education. <br /> No joking - here’s
                       the proof!
                     </h2>
                   </div>

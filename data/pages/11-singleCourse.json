@@ -45,7 +45,7 @@
           "img": "/images/course/single-course-02.jpg",
           "imgTwo": "/images/course/course-feature-03.jpg",
           "tag": "Hello! Web Development Course",
-          "title": "Complete app development course with HiStudy",
+          "title": "Complete app development course with Skillersity",
           "desc": "The idea of establishing a private university to provide quality education at an affordable cost in Uk London.",
           "list": [
             {
@@ -113,7 +113,7 @@
   ],
   "courseContent": [
     {
-      "title": "Intro to Course and Histudy",
+      "title": "Intro to Course and Skillersity",
       "isShow": true,
       "list": [
         {

@@ -69,7 +69,7 @@ const UniversityClassic = ({ blogdata }) => {
                 <Link
                   className="rbt-btn rounded-player popup-video position-to-top rbtplayer"
                   data-vbtype="video"
-                  href="https://www.youtube.com/watch?v=nA1Aqp0sPQo"
+                  href="https://www.youtube.com/watch?v=AxAF3zQPJeg"
                 >
                   <span>
                     <i className="feather-play"></i>
@@ -226,7 +226,7 @@ const UniversityClassic = ({ blogdata }) => {
             <div className="col-lg-6 col-md-12 col-12">
               <div className="load-more-btn text-start text-lg-end">
                 <Link className="rbt-btn-link" href="#">
-                  Browse Histudy Program<i className="feather-arrow-right"></i>
+                  Browse Skillersity Program<i className="feather-arrow-right"></i>
                 </Link>
               </div>
             </div>
@@ -299,7 +299,7 @@ const UniversityClassic = ({ blogdata }) => {
             <div className="col-lg-6 col-md-12 col-12">
               <div className="load-more-btn text-start text-lg-end">
                 <Link className="rbt-btn-link" href="#">
-                  Browse Histudy Courses<i className="feather-arrow-right"></i>
+                  Browse Skillersity Courses<i className="feather-arrow-right"></i>
                 </Link>
               </div>
             </div>
@@ -325,7 +325,7 @@ const UniversityClassic = ({ blogdata }) => {
             <div className="col-lg-6 col-md-12 col-12">
               <div className="load-more-btn text-start text-lg-end">
                 <Link className="rbt-btn-link" href="/blog-list">
-                  Browse Histudy Post<i className="feather-arrow-right"></i>
+                  Browse Skillersity Post<i className="feather-arrow-right"></i>
                 </Link>
               </div>
             </div>
@@ -386,7 +386,7 @@ const UniversityClassic = ({ blogdata }) => {
                     EDUCATION FOR EVERYONE
                   </span>
                   <h2 className="title">
-                    People like histudy education. <br /> No joking - Parents
+                    People like Skillersity education. <br /> No joking - Parents
                     Review Here!
                   </h2>
                 </div>

@@ -1,6 +1,6 @@
 const getLocalStorage = () => {
   if (typeof window !== "undefined") {
-    let cart = localStorage.getItem("hiStudy");
+    let cart = localStorage.getItem("Skillersity");
 
     if (cart) {
       return JSON.parse(cart);

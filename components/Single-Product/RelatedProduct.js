@@ -27,7 +27,7 @@ const RelatedProduct = ({ relatedProduct }) => {
                       src={data.courseImg}
                       width={355}
                       height={426}
-                      alt="Histudy Book Image"
+                      alt="Skillersity Book Image"
                     />
                   </Link>
                 </div>

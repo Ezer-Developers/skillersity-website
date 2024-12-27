@@ -6,7 +6,7 @@
       "isActive": true,
       "details": [
         {
-          "img": "/images/team/team-01.jpg",
+          "img": "/images/team/shamil.jpg",
           "name": "Shamil M",
           "type": "CEO/Founder",
           "location": "",
@@ -18,12 +18,12 @@
       ]
     },
     {
-      "img": "/images/team/team-02.jpg",
+      "img": "/images/team/muhammad.jpg",
       "isLarge": true,
       "isActive": true,
       "details": [
         {
-          "img": "/images/team/team-02.jpg",
+          "img": "/images/team/muhammad.jpg",
           "name": "Mohammed Ambalan",
           "type": "CMO",
           "location": "",
@@ -35,12 +35,12 @@
       ]
     },
     {
-      "img": "/images/team/team-02.jpg",
+      "img": "/images/team/mudassir.JPG",
       "isLarge": true,
       "isActive": true,
       "details": [
         {
-          "img": "/images/team/team-02.jpg",
+          "img": "/images/team/mudassir.JPG",
           "name": "Mudassir Nazar",
           "type": "Creative Director",
           "location": "",
@@ -52,12 +52,12 @@
       ]
     },
     {
-      "img": "/images/team/team-02.jpg",
+      "img": "/images/team/christin.jpg",
       "isLarge": true,
       "isActive": true,
       "details": [
         {
-          "img": "/images/team/team-02.jpg",
+          "img": "/images/team/christin.jpg",
           "name": "Christin P J",
           "type": "Digital Marketing Professional",
           "location": "",

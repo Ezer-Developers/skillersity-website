@@ -32,7 +32,7 @@ const Viedo = ({ checkMatchCourses }) => {
 
   useEffect(() => {
     dispatch({ type: "COUNT_CART_TOTALS" });
-    localStorage.setItem("hiStudy", JSON.stringify(cart));
+    localStorage.setItem("Skillersity", JSON.stringify(cart));
   }, [cart]);
 
   // =====> For video PopUp
@@ -65,7 +65,7 @@ const Viedo = ({ checkMatchCourses }) => {
             hideOnScroll ? "d-none" : ""
           }`}
           data-vbtype="video"
-          href="https://www.youtube.com/watch?v=nA1Aqp0sPQo"
+          href="https://www.youtube.com/watch?v=AxAF3zQPJeg"
         >
           <div className="video-content">
             {checkMatchCourses.courseImg && (

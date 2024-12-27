@@ -28,7 +28,7 @@ const AdmissionArea = () => {
             />
             <Link
               className="rbt-btn btn-white rounded-player popup-video position-to-top"
-              href="https://www.youtube.com/watch?v=nA1Aqp0sPQo"
+              href="https://www.youtube.com/watch?v=AxAF3zQPJeg"
               data-vbtype="video"
               controls
             >

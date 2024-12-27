@@ -65,7 +65,7 @@ const SplitTwo = ({ isImg }) => {
                   <Link
                     className="popup-video position-to-top"
                     data-vbtype="video"
-                    href="https://www.youtube.com/watch?v=nA1Aqp0sPQo"
+                    href="https://www.youtube.com/watch?v=AxAF3zQPJeg"
                   >
                     <span>
                       <Image

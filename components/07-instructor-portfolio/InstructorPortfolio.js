@@ -29,7 +29,7 @@ const InstructorPortfolio = () => {
               <div className="col-12">
                 <div className="inner text-center">
                   <div className="badge-top mb--30">
-                    <span className="rbt-badge">Histudy Badge</span>
+                    <span className="rbt-badge">Skillersity Badge</span>
                   </div>
                   <h1 className="title">
                     Hey! Build Your <span className="theme-gradient">Life</span>
@@ -66,7 +66,7 @@ const InstructorPortfolio = () => {
                 </h2>
                 <p className="description has-medium-font-size mt--20">
                   Learning new technology, data sience, university, communicate
-                  to global world and build a bright future with our histudy.
+                  to global world and build a bright future with our Skillersity.
                 </p>
               </div>
             </div>
@@ -94,7 +94,7 @@ const InstructorPortfolio = () => {
                         href="#"
                       >
                         <span className="icon-reverse-wrapper">
-                          <span className="btn-text">Purchase Histudy</span>
+                          <span className="btn-text">Purchase Skillersity</span>
                           <span className="btn-icon">
                             <i className="feather-arrow-right"></i>
                           </span>
@@ -131,7 +131,7 @@ const InstructorPortfolio = () => {
                 </h2>
                 <p className="description has-medium-font-size mt--20">
                   Learning new technology, data sience, university, communicate
-                  to global world and build a bright future with our histudy.
+                  to global world and build a bright future with our Skillersity.
                 </p>
               </div>
             </div>
@@ -218,7 +218,7 @@ const InstructorPortfolio = () => {
                 </h2>
                 <p className="description has-medium-font-size mt--20">
                   Learning new technology, data sience, university, communicate
-                  to global world and build a bright future with our histudy.
+                  to global world and build a bright future with our Skillersity.
                 </p>
               </div>
             </div>
@@ -237,7 +237,7 @@ const InstructorPortfolio = () => {
                 </h2>
                 <p className="description has-medium-font-size mt--20">
                   Learning new technology, data sience, university, communicate
-                  to global world and build a bright future with our histudy.
+                  to global world and build a bright future with our Skillersity.
                 </p>
               </div>
             </div>
@@ -258,7 +258,7 @@ const InstructorPortfolio = () => {
                 </h2>
                 <p className="description mt--20">
                   Learning communicate to global world and build a bright future
-                  with our histudy.
+                  with our Skillersity.
                 </p>
                 <div className="veiw-more-btn mt--20">
                   <Link
@@ -285,7 +285,7 @@ const InstructorPortfolio = () => {
                 </h2>
                 <p className="description has-medium-font-size mt--20">
                   Learning new technology, data sience, university, communicate
-                  to global world and build a bright future with our histudy.
+                  to global world and build a bright future with our Skillersity.
                 </p>
               </div>
             </div>

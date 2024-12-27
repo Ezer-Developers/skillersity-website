@@ -32,7 +32,7 @@ const CourseDetailsTwo = ({ checkMatchCourses }) => {
           <Link
             className="video-popup-with-text video-popup-wrapper text-center popup-video mb--15"
             data-vbtype="video"
-            href="https://www.youtube.com/watch?v=nA1Aqp0sPQo"
+            href="https://www.youtube.com/watch?v=AxAF3zQPJeg"
           >
             <div className="video-content">
               <Image

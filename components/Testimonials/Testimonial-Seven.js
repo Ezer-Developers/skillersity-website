@@ -21,23 +21,23 @@ const TestimonialSeven = () => {
                   <div className="rbt-testimonial-box style-2">
                     <div className="inner">
                       <div className="icons">
-                        <Image
+                        {/* <Image
                           src={item.img}
                           width={item.wtd ? item.wtd : 97}
                           height={item.ht ? item.ht : 50}
                           alt="Clint Images"
-                        />
+                        /> */}
                       </div>
                       <div className="description">
                         <p className="subtitle-3">{item.desc}</p>
                         <div className="clint-info-wrapper">
                           <div className="thumb">
-                            <Image
+                            {/* <Image
                               src={item.client}
                               width={494}
                               height={494}
                               alt="Clint Images"
-                            />
+                            /> */}
                           </div>
                           <div className="client-info">
                             <h5 className="title">
@@ -68,23 +68,23 @@ const TestimonialSeven = () => {
                   <div className="rbt-testimonial-box style-2">
                     <div className="inner">
                       <div className="icons">
-                        <Image
+                        {/* <Image
                           src={item.img}
                           width={item.wtd ? item.wtd : 97}
                           height={item.ht ? item.ht : 50}
                           alt="Clint Images"
-                        />
+                        /> */}
                       </div>
                       <div className="description">
                         <p className="subtitle-3">{item.desc}</p>
                         <div className="clint-info-wrapper">
                           <div className="thumb">
-                            <Image
+                            {/* <Image
                               src={item.client}
                               width={494}
                               height={494}
                               alt="Clint Images"
-                            />
+                            /> */}
                           </div>
                           <div className="client-info">
                             <h5 className="title">

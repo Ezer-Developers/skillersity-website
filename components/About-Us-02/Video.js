@@ -30,7 +30,7 @@ const Video = () => {
                   className="rbt-btn rounded-player-2 popup-video position-to-top with-animation btn-theme-color"
                   data-vbtype="video"
                   controls
-                  href="https://www.youtube.com/watch?v=nA1Aqp0sPQo"
+                  href="https://www.youtube.com/watch?v=AxAF3zQPJeg"
                 >
                   <span className="play-icon"></span>
                 </Link>

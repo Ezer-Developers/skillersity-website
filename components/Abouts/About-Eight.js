@@ -56,7 +56,7 @@ const AboutEight = () => {
                       className="rbt-btn btn-gradient rbt-switch-btn rbt-switch-y"
                       href="#"
                     >
-                      <span data-text="About Histudy">About Histudy</span>
+                      <span data-text="About Skillersity">About Skillersity</span>
                     </Link>
                   </div>
                 </div>

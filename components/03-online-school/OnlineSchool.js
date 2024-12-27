@@ -266,10 +266,10 @@ const OnlineSchool = ({ blogs }) => {
             <div className="col-lg-12">
               <div className="section-title text-center">
                 <span className="subtitle bg-pink-opacity">
-                  Histudy Feature
+                  Skillersity Feature
                 </span>
                 <h2 className="title">
-                  Check out Histudy&apos;s features <br /> to win any exam
+                  Check out Skillersity&apos;s features <br /> to win any exam
                 </h2>
               </div>
             </div>
@@ -311,7 +311,7 @@ const OnlineSchool = ({ blogs }) => {
             <div className="col-lg-12">
               <div className="section-title text-center">
                 <span className="subtitle bg-secondary-opacity">Courses</span>
-                <h2 className="title">Histudy All Courses</h2>
+                <h2 className="title">Skillersity All Courses</h2>
               </div>
             </div>
           </div>
@@ -325,7 +325,7 @@ const OnlineSchool = ({ blogs }) => {
             <div className="col-lg-6 col-md-6 col-12">
               <div className="section-title text-start">
                 <span className="subtitle bg-primary-opacity">Our Events</span>
-                <h2 className="title">Histudy Events</h2>
+                <h2 className="title">Skillersity Events</h2>
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-12">
@@ -372,7 +372,7 @@ const OnlineSchool = ({ blogs }) => {
                     EDUCATION FOR EVERYONE
                   </span>
                   <h2 className="title">
-                    People like histudy education. <br /> No joking - here’s the
+                    People like Skillersity education. <br /> No joking - here’s the
                     proof!
                   </h2>
                 </div>
@@ -389,7 +389,7 @@ const OnlineSchool = ({ blogs }) => {
             <div className="col-lg-6 col-md-6 col-12">
               <div className="section-title text-start">
                 <span className="subtitle bg-primary-opacity">Our Blog</span>
-                <h2 className="title">Histudy Blog</h2>
+                <h2 className="title">Skillersity Blog</h2>
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-12">

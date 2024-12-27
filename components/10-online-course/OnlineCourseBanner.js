@@ -90,8 +90,7 @@ const OnlineCourseBanner = () => {
               className="rbt-btn rounded-player-2 popup-video position-to-top with-animation"
               data-vbtype="video"
               controls
-              href="https://www.youtube.com/watch?v=nA1Aqp0sPQo"
-            >
+              href="https://www.youtube.com/watch?v=AxAF3zQPJeg">
               <span className="play-icon"></span>
             </Link>
           </div>

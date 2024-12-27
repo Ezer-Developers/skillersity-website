@@ -27,7 +27,7 @@ const EventViedo = ({ getEventData }) => {
 
   useEffect(() => {
     dispatch({ type: "COUNT_CART_TOTALS" });
-    localStorage.setItem("hiStudy", JSON.stringify(cart));
+    localStorage.setItem("Skillersity", JSON.stringify(cart));
   }, [cart]);
 
   useEffect(() => {
@@ -58,7 +58,7 @@ const EventViedo = ({ getEventData }) => {
             hideOnScroll ? "d-none" : ""
           }`}
           data-vbtype="video"
-          href="https://www.youtube.com/watch?v=nA1Aqp0sPQo"
+          href="https://www.youtube.com/watch?v=AxAF3zQPJeg"
         >
           <div className="video-content">
             {getEventData.eventImg && (

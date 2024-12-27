@@ -46,7 +46,7 @@ const CallToAction = () => {
                         <Link
                           className="rbt-btn rounded-player-2 sm-size popup-video position-to-top with-animation"
                           data-vbtype="video"
-                          href="https://www.youtube.com/watch?v=nA1Aqp0sPQo"
+                          href="https://www.youtube.com/watch?v=AxAF3zQPJeg"
                           controls
                         >
                           <span className="play-icon"></span>

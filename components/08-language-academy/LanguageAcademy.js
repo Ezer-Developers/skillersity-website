@@ -159,13 +159,13 @@ const LanguageAcademy = ({ blogs }) => {
         </div>
       </div>
 
-      <div className="rbt-categories-area bg-color-extra2 rbt-section-gap">
+      {/* <div className="rbt-categories-area bg-color-extra2 rbt-section-gap">
         <div className="container">
           <div className="row g-5">
             <CategoryFour />
           </div>
         </div>
-      </div>
+      </div> */}
 
       {/* <div className="rbt-course-card-area rbt-section-gap bg-color-white">
         <div className="container">
@@ -258,7 +258,7 @@ const LanguageAcademy = ({ blogs }) => {
         </div>
       </div> */}
 
-      <div className="rbt-about-area bg-color-white rbt-section-gapTop pb_md--80 pb_sm--80 about-style-1">
+      <div className="rbt-about-area bg-color-white rbt-section-gapTop pb_md--80 pb_sm--80 about-style-1 csm-pb-40">
         <div className="container">
           <ParallaxProvider>
             <AboutTwo />
@@ -276,7 +276,7 @@ const LanguageAcademy = ({ blogs }) => {
                     Top Popular Course
                   </span>
                   <h2 className="title">
-                    Histudy Course student <br /> can join with us.
+                    Skillersity Course student <br /> can join with us.
                   </h2>
                 </div>
               </div>
@@ -298,7 +298,7 @@ const LanguageAcademy = ({ blogs }) => {
                     className="rbt-btn btn-gradient btn-lg hover-icon-reverse"
                     href="#">
                     <span className="icon-reverse-wrapper">
-                      <span className="btn-text">Load More Course (40)</span>
+                      <span className="btn-text">Load More Course</span>
                       <span className="btn-icon">
                         <i className="feather-arrow-right"></i>
                       </span>
@@ -335,7 +335,7 @@ const LanguageAcademy = ({ blogs }) => {
                       EDUCATION FOR EVERYONE
                     </span>
                     <h2 className="title">
-                      People like histudy education. <br /> No joking - here’s
+                      People like Skillersity education. <br /> No joking - here’s
                       the proof!
                     </h2>
                   </div>
@@ -400,7 +400,7 @@ const LanguageAcademy = ({ blogs }) => {
             <div className="col-lg-12">
               <div className="section-title text-center">
                 <span className="subtitle bg-pink-opacity">Our Posts</span>
-                <h2 className="title">Histudy News</h2>
+                <h2 className="title">Skillersity News</h2>
                 <p className="description has-medium-font-size mt--20">
                   Language Academy Blog.
                 </p>

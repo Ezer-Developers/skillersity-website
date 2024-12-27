@@ -433,9 +433,9 @@ ul {
             background: transparent;
             border-radius: var(--radius);
 
-            &::before {
-                background-image: url(../../images/icons/quote.svg);
-            }
+            // &::before {
+            //     background-image: url(../../images/icons/quote.svg);
+            // }
         }
     }
 
@@ -541,9 +541,9 @@ ul {
         .inner {
             text-align: center;
 
-            &::before {
-                background-image: url(../../images/icons/quote.svg);
-            }
+            // &::before {
+            //     background-image: url(../../images/icons/quote.svg);
+            // }
         }
 
         .icons {

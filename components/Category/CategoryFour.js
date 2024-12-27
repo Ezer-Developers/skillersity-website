@@ -19,8 +19,8 @@ const CategoryFour = () => {
                     <Link href={`/course-filter-one-toggle/${item.category}`}>
                       <Image
                         src={item.cateBigImg}
-                        width={304}
-                        height={166}
+                        width={204}
+                        height={66}
                         alt="Category Images"
                       />
                       <div className="read-more-btn">

@@ -58,7 +58,7 @@
     },
     {
       "id": 3,
-      "title": "Histudy Quiz",
+      "title": "Skillersity Quiz",
       "isShow": false,
       "listItem": [
         {
@@ -117,7 +117,7 @@
         },
         {
           "lssonLink": "/lesson-quiz",
-          "lessonName": "Histudy Quiz Start",
+          "lessonName": "Skillersity Quiz Start",
           "lable": true,
           "time": 0,
           "unread": true,
@@ -126,7 +126,7 @@
         },
         {
           "lssonLink": "/lesson-quiz-result",
-          "lessonName": "Histudy Quiz Result",
+          "lessonName": "Skillersity Quiz Result",
           "lable": true,
           "time": 0,
           "unread": true,
@@ -137,12 +137,12 @@
     },
     {
       "id": 4,
-      "title": "Histudy Assignments",
+      "title": "Skillersity Assignments",
       "isShow": false,
       "listItem": [
         {
           "lssonLink": "/lesson-assignments",
-          "lessonName": "Histudy Assignments",
+          "lessonName": "Skillersity Assignments",
           "lable": true,
           "time": 0,
           "unread": true,
@@ -151,7 +151,7 @@
         },
         {
           "lssonLink": "/lesson-assignments-submit",
-          "lessonName": "Histudy Assignments Submit",
+          "lessonName": "Skillersity Assignments Submit",
           "lable": true,
           "time": 0,
           "unread": true,

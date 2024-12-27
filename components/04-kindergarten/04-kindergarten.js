@@ -112,7 +112,7 @@ const Kindergarten = ({ blogs }) => {
             <div className="col-lg-12">
               <div className="section-title text-center">
                 <span className="subtitle bg-secondary-opacity">
-                  Histudy Course
+                  Skillersity Course
                 </span>
                 <h2 className="title">Weekly Online Classes.</h2>
                 <p className="description has-medium-font-size mt--20">
@@ -145,7 +145,7 @@ const Kindergarten = ({ blogs }) => {
       </div>
 
       <div className="rbt-pricing-area bg-color-light rbt-section-gap">
-        <Pricing title="Histudy Course Plan" tag="COURSE PRICING" />
+        <Pricing title="Skillersity Course Plan" tag="COURSE PRICING" />
       </div>
 
       <div className="rbt-team-area bg-color-white rbt-section-gap">
@@ -188,7 +188,7 @@ const Kindergarten = ({ blogs }) => {
                     EDUCATION FOR EVERYONE
                   </span>
                   <h2 className="title">
-                    People like histudy education. <br /> No joking - Parents
+                    People like Skillersity education. <br /> No joking - Parents
                     Review Here!
                   </h2>
                 </div>
@@ -205,7 +205,7 @@ const Kindergarten = ({ blogs }) => {
             <div className="col-lg-12">
               <div className="section-title text-center">
                 <span className="subtitle bg-secondary-opacity">
-                  Histudy Post
+                  Skillersity Post
                 </span>
                 <h2 className="title">From Our Post.</h2>
                 <p className="description has-medium-font-size mt--20">
