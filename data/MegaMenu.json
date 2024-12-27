@@ -165,12 +165,36 @@
           "link": "/course-details/2"
         },
         {
-          "title": "Graphic Designing Advanced",
+          "title": "Graphic Designing - Advanced",
           "link": "/course-details/3"
         },
         {
-          "title": "Graphic Designing Intermediate",
+          "title": "Graphic Designing - Intermediate",
           "link": "/course-details/4"
+        },
+        {
+          "title": "Video Editing + Graphic design",
+          "link": "/course-details/5"
+        },
+        {
+          "title": "Digital Marketing Intermediate",
+          "link": "/course-details/6"
+        },
+        {
+          "title": "AI-Enhanced Digital Marketing + Video Editing Mastery",
+          "link": "/course-details/7"
+        },
+        {
+          "title": "AI-Enhanced Digital Marketing + Graphic Designing Mastery",
+          "link": "/course-details/8"
+        },
+        {
+          "title": "AI-Enhanced Digital Marketing + Graphic Designing + Video Editing Mastery",
+          "link": "/course-details/9"
+        },
+        {
+          "title": "AI-Enhanced Digital Marketing + Graphic Designing Mastery",
+          "link": "/course-details/8"
         }
       ]
     },

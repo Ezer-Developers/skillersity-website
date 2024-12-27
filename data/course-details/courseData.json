@@ -1256,7 +1256,6 @@
         }
       ]
     },
-
     {
       "id": 4,
       "courseTitle": "Graphic Designing - Intermediate",
@@ -1420,7 +1419,7 @@
             {
               "title": "InDesign",
               "time": "3 Week",
-              "collapsed":false,
+              "collapsed": false,
               "isShow": false,
               "expand": false,
               "listItem": [
@@ -1526,6 +1525,2505 @@
         {
           "userName": " Mudassir Nazar ",
           "userCategory": "Designing",
+          "body": [
+            {
+              "id": 1,
+              "title": "Advanced Digital Marketing",
+              "author": "Christin P J",
+              "post": " Digital Marketing",
+              "link": "/course-details",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            }
+          ]
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Hrs 20 Min"
+        },
+        {
+          "text": "Enrolled",
+          "desc": "100"
+        },
+        {
+          "text": "Lectures",
+          "desc": "50"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Language",
+          "desc": "English"
+        },
+        {
+          "text": "Quizzes",
+          "desc": "10"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Pass Percentage",
+          "desc": "95"
+        }
+      ],
+      "similarCourse": [
+        {
+          "id": 1,
+          "title": "React Front To Back",
+          "author": "Angela",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-01.jpg",
+          "avatar": "/images/client/avatar-02.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": false,
+          "rating": 15,
+          "discount": 40,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 2,
+          "title": "PHP Beginner Advanced",
+          "author": "Claudia Pruitt",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-02.jpg",
+          "avatar": "/images/client/avatar-04.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": true,
+          "rating": 15,
+          "discount": 0,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 3,
+          "title": "Angular Zero to Mastery",
+          "author": "Slaughter",
+          "post": "Languages",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-03.jpg",
+          "avatar": "/images/client/avatar-03.png",
+          "desc": "Angular Js long fact that a reader will be distracted by the readable.",
+          "button": false,
+          "rating": 5,
+          "discount": 10,
+          "lesson": 8,
+          "student": 30,
+          "price": 80,
+          "offPrice": 100
+        }
+      ],
+      "subCategories": [
+        {
+          "cate": "Healthcare"
+        },
+        {
+          "cate": "Beauty & fashion"
+        },
+        {
+          "cate": "Education & Travel"
+        },
+        {
+          "cate": "Kitchen"
+        },
+        {
+          "cate": "Medicle & entertain"
+        },
+        {
+          "cate": "Medicle & Science"
+        },
+        {
+          "cate": "Tour & Travel"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "courseTitle": "Video Editing + Graphic design",
+      "category": "Creator Course",
+      "courseType": "featured",
+      "desc": "A dual-discipline course designed to help learners master both video editing and graphic designing. From crafting stunning videos to creating professional-grade graphics, this program equips you with versatile creative skills. Build a portfolio showcasing your expertise in Adobe Premiere Pro, Photoshop, Illustrator, CorelDRAW, and InDesign.",
+      "lesson": 5,
+      "review": 15,
+      "price": 40000,
+      "offPrice": 30000,
+      "student": 30,
+      "discount": 10000,
+      "sellsType": "Bestseller",
+      "star": "4.9",
+      "ratingNumber": "475",
+      "studentNumber": "029",
+      "cateSmallImg": "/images/category/web-design.png",
+      "cateBigImg": "/images/category/image/web-design.jpg",
+      "userImg": "/images/client/avatar-02.png",
+      "courseImg": "/images/course/course-01.jpg",
+      "courseListImg": "/images/course/course-list-01.jpg",
+      "awardImg": "/images/icons/card-icon-1.png",
+      "days": "12",
+      "isActiveCate": true,
+      "userName": " Mudassir Nazar ",
+      "userCategory": "Creator Course",
+      "cateDesc": "",
+      "date": " 12/2024",
+      "language": "English",
+      "courseAward": "Certified Course",
+      "courseFor": [
+        "Marketing"
+      ],
+      "courseOverview": [
+        {
+          "title": "What you'll learn",
+          "desc": "The Creative Media Mastery Program is a comprehensive 12-week course that combines video editing and graphic designing to equip aspiring creators with the skills needed to excel in both fields. Through hands-on training and practical projects, participants will master video editing techniques using Adobe Premiere Pro, including color grading, transitions, and storytelling, while also diving into graphic design tools like Photoshop, Illustrator, CorelDRAW, and InDesign to create stunning visuals and professional layouts. By the end of the program, students will have a versatile portfolio showcasing their expertise in both video editing and graphic design, ready for professional opportunities.",
+          "descTwo": "A 3-month program combining video editing and graphic designing. Learn Adobe tools, storytelling, and visual design techniques to elevate your creative career.",
+          "overviewList": [
+            {
+              "listItem": "Dual-Discipline Expertise: Gain mastery in both video editing and graphic designing, using industry-standard tools like Adobe Premiere Pro, Photoshop, Illustrator, CorelDRAW, and InDesign."
+            },
+            {
+              "listItem": "Comprehensive 12-Week Curriculum: Balance learning across two creative fields, with focused modules for video editing (6 weeks) and graphic design (6 weeks), covering essential techniques and advanced workflows."
+            },
+            {
+              "listItem": "Portfolio-Driven Learning: Complete hands-on projects in both domains, creating a professional-grade portfolio that highlights your creative and technical skills."
+            },
+            {
+              "listItem": "Career-Enhancing Certifications: Earn dual certifications in Video Editing and Graphic Designing, validating your expertise and preparing you for diverse creative industry roles."
+            },
+            {
+              "listItem": "Versatile Career Opportunities: Equip yourself with the skills needed to succeed in a variety of creative careers, from video content production to graphic design for print and digital platforms."
+            }
+          ]
+        }
+      ],
+      "courseContent": [
+        {
+          "title": "Course Content",
+          "contentList": [
+            {
+              "title": "Introduction to Video Editing",
+              "time": "1 Week",
+              "collapsed": true,
+              "isShow": true,
+              "expand": true,
+              "listItem": [
+                {
+                  "text": "Editing fundamentals, software interface, and project setup.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Timeline basics, transitions, and tools for video composition.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Basic Video Editing Techniques",
+              "time": "4 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Cutting, trimming, and syncing audio.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Text overlays and applying basic effects.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Intermediate Video Editing Techniques",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Color grading, multi-camera editing, and audio mastering.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Slow motion, time-lapse, and professional workflows.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Final Video Project",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Create a polished video project showcasing your skills.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Adobe Photoshop Essentials",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Layers, selections, and photo editing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Color theory and typography basics.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Adobe Illustrator Fundamentals",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Vector graphics, logo design, and advanced path manipulation.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Gradients, text effects, and brand kit creation.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "CorelDRAW & InDesign Basics",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "CorelDRAW for vector design and layout preparation.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "InDesign for publication design and interactive documents. ",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Final Graphic Design Project",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Design a portfolio-ready project demonstrating creative proficiency.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "courseRequirement": [
+        {
+          "title": "Benefits",
+          "detailsList": [
+            {
+              "listItem": "Master industry-standard tools: Adobe Premiere Pro, Photoshop, Illustrator, CorelDRAW, and InDesign."
+            },
+            {
+              "listItem": "Build a dual-discipline portfolio showcasing video and design expertise."
+            },
+            {
+              "listItem": "Learn from expert mentors with real-world experience."
+            },
+            {
+              "listItem": "Flexible learning modules with hands-on projects."
+            },
+            {
+              "listItem": "Certification to validate your skills for creative industry careers."
+            }
+          ]
+        }
+      ],
+      "courseInstructor": [
+        {
+          "title": "Instructor",
+          "body": [
+            {
+              "id": 1,
+              "img": "/images/client/avatar-02.png",
+              "awardImg": "/images/icons/card-icon-1.png",
+              "sellsType": "Bestseller",
+              "contact": "+91 81380 60010",
+              "mail": "info@skillersity.com",
+              "name": "Mudassir Nazar",
+              "type": "Creative Director",
+              "ratingNumber": "25",
+              "studentNumber": "30 ",
+              "review": "10",
+              "star": "4.9",
+              "course": "4",
+              "desc": "Mudassir is a brilliant educator, whose life was spent for Graphic Designing and love of Video Editing.",
+              "social": [
+                {
+                  "link": "#",
+                  "icon": "facebook"
+                },
+                {
+                  "link": "#",
+                  "icon": "twitter"
+                },
+                {
+                  "link": "#",
+                  "icon": "instagram"
+                },
+                {
+                  "link": "#",
+                  "icon": "linkedin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "featuredReview": [
+        {
+          "title": "Featured review",
+          "body": [
+            {
+              "userImg": "/images/testimonial/testimonial-3.jpg",
+              "userName": "Farjana Bawnia",
+              "desc": "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            }
+          ]
+        }
+      ],
+      "relatedCourse": [
+        {
+          "userName": " Mudassir Nazar ",
+          "userCategory": "Designing",
+          "body": [
+            {
+              "id": 1,
+              "title": "Advanced Digital Marketing",
+              "author": "Christin P J",
+              "post": " Digital Marketing",
+              "link": "/course-details",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            }
+          ]
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Hrs 20 Min"
+        },
+        {
+          "text": "Enrolled",
+          "desc": "100"
+        },
+        {
+          "text": "Lectures",
+          "desc": "50"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Language",
+          "desc": "English"
+        },
+        {
+          "text": "Quizzes",
+          "desc": "10"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Pass Percentage",
+          "desc": "95"
+        }
+      ],
+      "similarCourse": [
+        {
+          "id": 1,
+          "title": "React Front To Back",
+          "author": "Angela",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-01.jpg",
+          "avatar": "/images/client/avatar-02.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": false,
+          "rating": 15,
+          "discount": 40,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 2,
+          "title": "PHP Beginner Advanced",
+          "author": "Claudia Pruitt",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-02.jpg",
+          "avatar": "/images/client/avatar-04.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": true,
+          "rating": 15,
+          "discount": 0,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 3,
+          "title": "Angular Zero to Mastery",
+          "author": "Slaughter",
+          "post": "Languages",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-03.jpg",
+          "avatar": "/images/client/avatar-03.png",
+          "desc": "Angular Js long fact that a reader will be distracted by the readable.",
+          "button": false,
+          "rating": 5,
+          "discount": 10,
+          "lesson": 8,
+          "student": 30,
+          "price": 80,
+          "offPrice": 100
+        }
+      ],
+      "subCategories": [
+        {
+          "cate": "Healthcare"
+        },
+        {
+          "cate": "Beauty & fashion"
+        },
+        {
+          "cate": "Education & Travel"
+        },
+        {
+          "cate": "Kitchen"
+        },
+        {
+          "cate": "Medicle & entertain"
+        },
+        {
+          "cate": "Medicle & Science"
+        },
+        {
+          "cate": "Tour & Travel"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "courseTitle": "Digital Marketing Intermediate",
+      "category": "Digital Marketing",
+      "courseType": "featured",
+      "desc": "A cutting-edge program that integrates AI tools and techniques with proven digital marketing strategies. Gain practical skills in SEO, PPC, social media marketing, content creation, and eCommerce with AI-driven insights. Build your expertise through hands-on projects and real-world applications to become a certified AI-powered digital marketer.",
+      "lesson": 5,
+      "review": 15,
+      "price": 40000,
+      "offPrice": 30000,
+      "student": 30,
+      "discount": 10000,
+      "sellsType": "Bestseller",
+      "star": "4.9",
+      "ratingNumber": "475",
+      "studentNumber": "029",
+      "cateSmallImg": "/images/category/web-design.png",
+      "cateBigImg": "/images/category/image/web-design.jpg",
+      "userImg": "/images/client/avatar-02.png",
+      "courseImg": "/images/course/course-01.jpg",
+      "courseListImg": "/images/course/course-list-01.jpg",
+      "awardImg": "/images/icons/card-icon-1.png",
+      "days": "12",
+      "isActiveCate": true,
+      "userName": " Christin P J ",
+      "userCategory": "Marketing Course",
+      "cateDesc": "",
+      "date": " 12/2024",
+      "language": "English",
+      "courseAward": "Certified Course",
+      "courseFor": [
+        "Marketing"
+      ],
+      "courseOverview": [
+        {
+          "title": "What you'll learn",
+          "desc": "The AI-Enhanced Digital Marketing Mastery Program is a cutting-edge 3-month course designed for both aspiring and experienced marketers seeking to excel in the evolving digital landscape. This immersive program integrates foundational, core, and advanced aspects of digital marketing with the transformative power of AI. Participants will gain expertise in essential concepts like SEO, content marketing, and PPC, while leveraging AI tools for campaign automation, audience targeting, and performance optimization. Advanced techniques such as predictive analytics, chatbots, and voice search optimization are also covered to provide a competitive edge. Through hands-on projects, real-world case studies, and a comprehensive capstone project, students will build a robust portfolio and earn an industry-recognized certification to showcase their skills and boost their career prospects.",
+          "descTwo": "Master AI-enhanced digital marketing strategies in this 3-month program. Learn SEO, PPC, social media, and content marketing, and leverage AI tools to execute impactful campaigns.",
+          "overviewList": [
+            {
+              "listItem": "AI-Driven Marketing Strategies: Master the integration of AI tools like ChatGPT, Jasper, SEMrush, and Hootsuite to automate, optimize, and enhance digital marketing campaigns for superior results."
+            },
+            {
+              "listItem": "Comprehensive Curriculum: Cover essential topics like SEO, PPC, social media marketing, content creation, and eCommerce, with advanced modules on predictive analytics, chatbots, and voice search optimization."
+            },
+            {
+              "listItem": "Real-World Applications: Gain hands-on experience through projects and case studies, building a robust portfolio showcasing your expertise in AI-enhanced digital marketing strategies."
+            },
+            {
+              "listItem": "Expert Mentorship: Learn from seasoned industry professionals and AI consultants with extensive experience in digital marketing, analytics, and cutting-edge technology integration."
+            },
+            {
+              "listItem": "Industry-Recognized Certification: Earn a prestigious certification that validates your proficiency in AI-powered digital marketing, boosting your career prospects and marketability."
+            },
+            {
+              "listItem": "Flexible Learning Format: Participate in engaging offline sessions, combining interactive live training and practical applications for an immersive learning experience."
+            }
+          ]
+        }
+      ],
+      "courseContent": [
+        {
+          "title": "Course Content",
+          "contentList": [
+            {
+              "title": "Foundational Knowledge",
+              "time": "1 Week",
+              "collapsed": true,
+              "isShow": true,
+              "expand": true,
+              "listItem": [
+                {
+                  "text": "Introduction to Digital Marketing.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Website Development and Optimization.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "AI-Powered SEO.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Core Digital Marketing Skills",
+              "time": "4 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Content Marketing with AI.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Social Media Marketing with AI.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Paid Advertising (PPC).",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Advanced & Emerging Strategies",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": " Email Marketing with AI.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Ecommerce Marketing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Emerging Technologies in Marketing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Capstone Project.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "courseRequirement": [
+        {
+          "title": "Benefits",
+          "detailsList": [
+            {
+              "listItem": "Learn to automate and optimize campaigns using AI tools like ChatGPT, Jasper, SEMrush, and Hootsuite."
+            },
+            {
+              "listItem": "Build a real-world portfolio with projects in SEO, PPC, social media, and eCommerce."
+            },
+            {
+              "listItem": "Gain hands-on experience with emerging technologies like predictive analytics and chatbots."
+            },
+            {
+              "listItem": "Flexible learning with live sessions and self-paced tutorials."
+            },
+            {
+              "listItem": "Industry-recognized certification to boost your career prospects."
+            }
+          ]
+        }
+      ],
+      "courseInstructor": [
+        {
+          "title": "Instructor",
+          "body": [
+            {
+              "id": 1,
+              "img": "/images/client/avatar-02.png",
+              "awardImg": "/images/icons/card-icon-1.png",
+              "sellsType": "Bestseller",
+              "contact": "+91 81380 60010",
+              "mail": "info@skillersity.com",
+              "name": "Christin P J",
+              "type": "Digital Marketing Expert",
+              "ratingNumber": "25",
+              "studentNumber": "30 ",
+              "review": "10",
+              "star": "4.9",
+              "course": "4",
+              "desc": "Industry professionals and AI experts with proven experience in digital marketing, analytics, and technology integration. Mentors include marketing strategists, PPC specialists, and AI consultants.",
+              "social": [
+                {
+                  "link": "#",
+                  "icon": "facebook"
+                },
+                {
+                  "link": "#",
+                  "icon": "twitter"
+                },
+                {
+                  "link": "#",
+                  "icon": "instagram"
+                },
+                {
+                  "link": "#",
+                  "icon": "linkedin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "featuredReview": [
+        {
+          "title": "Featured review",
+          "body": [
+            {
+              "userImg": "/images/testimonial/testimonial-3.jpg",
+              "userName": "Farjana Bawnia",
+              "desc": "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            }
+          ]
+        }
+      ],
+      "relatedCourse": [
+        {
+          "userName": " Christin P J ",
+          "userCategory": "Marketing",
+          "body": [
+            {
+              "id": 1,
+              "title": "Advanced Digital Marketing",
+              "author": "Christin P J",
+              "post": " Digital Marketing",
+              "link": "/course-details",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            }
+          ]
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Hrs 20 Min"
+        },
+        {
+          "text": "Enrolled",
+          "desc": "100"
+        },
+        {
+          "text": "Lectures",
+          "desc": "50"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Language",
+          "desc": "English"
+        },
+        {
+          "text": "Quizzes",
+          "desc": "10"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Pass Percentage",
+          "desc": "95"
+        }
+      ],
+      "similarCourse": [
+        {
+          "id": 1,
+          "title": "React Front To Back",
+          "author": "Angela",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-01.jpg",
+          "avatar": "/images/client/avatar-02.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": false,
+          "rating": 15,
+          "discount": 40,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 2,
+          "title": "PHP Beginner Advanced",
+          "author": "Claudia Pruitt",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-02.jpg",
+          "avatar": "/images/client/avatar-04.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": true,
+          "rating": 15,
+          "discount": 0,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 3,
+          "title": "Angular Zero to Mastery",
+          "author": "Slaughter",
+          "post": "Languages",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-03.jpg",
+          "avatar": "/images/client/avatar-03.png",
+          "desc": "Angular Js long fact that a reader will be distracted by the readable.",
+          "button": false,
+          "rating": 5,
+          "discount": 10,
+          "lesson": 8,
+          "student": 30,
+          "price": 80,
+          "offPrice": 100
+        }
+      ],
+      "subCategories": [
+        {
+          "cate": "Healthcare"
+        },
+        {
+          "cate": "Beauty & fashion"
+        },
+        {
+          "cate": "Education & Travel"
+        },
+        {
+          "cate": "Kitchen"
+        },
+        {
+          "cate": "Medicle & entertain"
+        },
+        {
+          "cate": "Medicle & Science"
+        },
+        {
+          "cate": "Tour & Travel"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "courseTitle": "Digital Marketing Advanced",
+      "category": "Digital Marketing",
+      "courseType": "featured",
+      "desc": "This advanced digital marketing course is designed to equip professionals with cutting-edge skills in AI-powered digital marketing strategies. From AI-driven SEO, social media, and content marketing to advanced tools for paid advertising and emerging technologies, this program prepares participants for the future of digital marketing.",
+      "lesson": 5,
+      "review": 15,
+      "price": 40000,
+      "offPrice": 30000,
+      "student": 30,
+      "discount": 10000,
+      "sellsType": "Bestseller",
+      "star": "4.9",
+      "ratingNumber": "475",
+      "studentNumber": "029",
+      "cateSmallImg": "/images/category/web-design.png",
+      "cateBigImg": "/images/category/image/web-design.jpg",
+      "userImg": "/images/client/avatar-02.png",
+      "courseImg": "/images/course/course-01.jpg",
+      "courseListImg": "/images/course/course-list-01.jpg",
+      "awardImg": "/images/icons/card-icon-1.png",
+      "days": "12",
+      "isActiveCate": true,
+      "userName": " Christin P J ",
+      "userCategory": "Marketing Course",
+      "cateDesc": "",
+      "date": " 12/2024",
+      "language": "English",
+      "courseAward": "Certified Course",
+      "courseFor": [
+        "Marketing"
+      ],
+      "courseOverview": [
+        {
+          "title": "What you'll learn",
+          "desc": "The AI-Based Advanced Digital Marketing Program is a comprehensive 3-month training designed to elevate your digital marketing skills. This course covers foundational concepts in digital marketing and advances into industry-relevant AI-powered strategies. You'll explore AI-driven tools for SEO, content creation, paid advertising, social media automation, email marketing, and eCommerce strategies. The curriculum also includes hands-on projects, real-world case studies, and a capstone project to help you build a strong portfolio. Whether you are a marketer, business owner, or digital strategist, this course will prepare you for the future of marketing.",
+          "descTwo": "Master AI-based digital marketing techniques with an intensive 3-month course. Learn SEO, social media, content marketing, email strategies, and more using the latest AI tools.",
+          "overviewList": [
+            {
+              "listItem": "AI-Powered Digital Strategies: Master advanced AI tools and techniques for SEO, PPC, social media marketing, and content creation to optimize and automate campaigns effectively."
+            },
+            {
+              "listItem": "Comprehensive Curriculum: Cover foundational to advanced digital marketing topics, including predictive analytics, AI-driven chatbots, and emerging marketing technologies."
+            },
+            {
+              "listItem": "Hands-On Learning: Engage in practical projects and real-world case studies to apply your skills and build a professional portfolio."
+            },
+            {
+              "listItem": "Expert Guidance: Learn from experienced mentors in AI, automation, and digital marketing who provide personalized support and industry insights."
+            },
+            {
+              "listItem": "Flexible Learning Modes: Choose between live offline sessions and self-paced online learning to fit your schedule and learning preferences."
+            },
+            {
+              "listItem": "Certification Advantage: Receive an industry-recognized certification upon course completion, boosting your career prospects and demonstrating expertise in advanced digital marketing strategies."
+            }
+          ]
+        }
+      ],
+      "courseContent": [
+        {
+          "title": "Course Content",
+          "contentList": [
+            {
+              "title": "Foundational Knowledge",
+              "time": "1 Week",
+              "collapsed": true,
+              "isShow": true,
+              "expand": true,
+              "listItem": [
+                {
+                  "text": "Introduction to Digital Marketing.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Website Development and Optimization.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "AI-Powered SEO.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Core Digital Marketing Skills",
+              "time": "4 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Content Marketing with AI.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Social Media Marketing with AI.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Paid Advertising (PPC).",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Advanced & Emerging Strategies",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": " Email Marketing with AI.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Ecommerce Marketing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "AI in Predictive Analytics & Chatbots",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Emerging Technologies in Marketing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Capstone Project.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "courseRequirement": [
+        {
+          "title": "Benefits",
+          "detailsList": [
+            {
+              "listItem": "Master AI tools for SEO, content marketing, and social media campaigns."
+            },
+            {
+              "listItem": "Learn advanced techniques in paid advertising (PPC) and email marketing."
+            },
+            {
+              "listItem": "Work on real-world projects and case studies to build your portfolio."
+            },
+            {
+              "listItem": "Gain expertise in emerging marketing technologies like AI chatbots and predictive analytics."
+            },
+            {
+              "listItem": "Flexible learning schedule with both live sessions and self-paced tutorials."
+            },
+            {
+              "listItem": "Personalized mentorship from industry experts."
+            },
+            {
+              "listItem": "Certification upon successful completion to enhance your resume."
+            }
+          ]
+        }
+      ],
+      "courseInstructor": [
+        {
+          "title": "Instructor",
+          "body": [
+            {
+              "id": 1,
+              "img": "/images/client/avatar-02.png",
+              "awardImg": "/images/icons/card-icon-1.png",
+              "sellsType": "Bestseller",
+              "contact": "+91 81380 60010",
+              "mail": "info@skillersity.com",
+              "name": "Christin P J",
+              "type": "Digital Marketing Expert",
+              "ratingNumber": "25",
+              "studentNumber": "30 ",
+              "review": "10",
+              "star": "4.9",
+              "course": "4",
+              "desc": "The program will be taught by industry experts with extensive experience in digital marketing, AI, and automation. Mentors will provide one-on-one guidance, answer questions, and offer insights into real-world applications.",
+              "social": [
+                {
+                  "link": "#",
+                  "icon": "facebook"
+                },
+                {
+                  "link": "#",
+                  "icon": "twitter"
+                },
+                {
+                  "link": "#",
+                  "icon": "instagram"
+                },
+                {
+                  "link": "#",
+                  "icon": "linkedin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "featuredReview": [
+        {
+          "title": "Featured review",
+          "body": [
+            {
+              "userImg": "/images/testimonial/testimonial-3.jpg",
+              "userName": "Farjana Bawnia",
+              "desc": "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            }
+          ]
+        }
+      ],
+      "relatedCourse": [
+        {
+          "userName": " Christin P J ",
+          "userCategory": "Marketing",
+          "body": [
+            {
+              "id": 1,
+              "title": "Advanced Digital Marketing",
+              "author": "Christin P J",
+              "post": " Digital Marketing",
+              "link": "/course-details",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            }
+          ]
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Hrs 20 Min"
+        },
+        {
+          "text": "Enrolled",
+          "desc": "100"
+        },
+        {
+          "text": "Lectures",
+          "desc": "50"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Language",
+          "desc": "English"
+        },
+        {
+          "text": "Quizzes",
+          "desc": "10"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Pass Percentage",
+          "desc": "95"
+        }
+      ],
+      "similarCourse": [
+        {
+          "id": 1,
+          "title": "React Front To Back",
+          "author": "Angela",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-01.jpg",
+          "avatar": "/images/client/avatar-02.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": false,
+          "rating": 15,
+          "discount": 40,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 2,
+          "title": "PHP Beginner Advanced",
+          "author": "Claudia Pruitt",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-02.jpg",
+          "avatar": "/images/client/avatar-04.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": true,
+          "rating": 15,
+          "discount": 0,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 3,
+          "title": "Angular Zero to Mastery",
+          "author": "Slaughter",
+          "post": "Languages",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-03.jpg",
+          "avatar": "/images/client/avatar-03.png",
+          "desc": "Angular Js long fact that a reader will be distracted by the readable.",
+          "button": false,
+          "rating": 5,
+          "discount": 10,
+          "lesson": 8,
+          "student": 30,
+          "price": 80,
+          "offPrice": 100
+        }
+      ],
+      "subCategories": [
+        {
+          "cate": "Healthcare"
+        },
+        {
+          "cate": "Beauty & fashion"
+        },
+        {
+          "cate": "Education & Travel"
+        },
+        {
+          "cate": "Kitchen"
+        },
+        {
+          "cate": "Medicle & entertain"
+        },
+        {
+          "cate": "Medicle & Science"
+        },
+        {
+          "cate": "Tour & Travel"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "courseTitle": "AI-Enhanced Digital Marketing + Video Editing Mastery",
+      "category": "Creator Course",
+      "courseType": "featured",
+      "desc": "This integrated course combines AI-driven digital marketing strategies with industry-leading video editing techniques. From mastering SEO and social media marketing with AI tools to creating professional-grade video content, this course prepares you to create impactful marketing campaigns and engaging videos. You will build expertise in video production for digital marketing, combining the power of AI with creative video content to enhance engagement and drive results. By the end, you will have a portfolio that showcases your skills in both digital marketing and video editing.",
+      "lesson": 5,
+      "review": 15,
+      "price": 40000,
+      "offPrice": 30000,
+      "student": 30,
+      "discount": 10000,
+      "sellsType": "Bestseller",
+      "star": "4.9",
+      "ratingNumber": "475",
+      "studentNumber": "029",
+      "cateSmallImg": "/images/category/web-design.png",
+      "cateBigImg": "/images/category/image/web-design.jpg",
+      "userImg": "/images/client/avatar-02.png",
+      "courseImg": "/images/course/course-01.jpg",
+      "courseListImg": "/images/course/course-list-01.jpg",
+      "awardImg": "/images/icons/card-icon-1.png",
+      "days": "12",
+      "isActiveCate": true,
+      "userName": " Christin P J ",
+      "userCategory": "Marketing & Creator Course",
+      "cateDesc": "",
+      "date": " 12/2024",
+      "language": "English",
+      "courseAward": "Certified Course",
+      "courseFor": [
+        "Marketing"
+      ],
+      "courseOverview": [
+        {
+          "title": "What you'll learn",
+          "desc": "The AI-Enhanced Digital Marketing + Video Editing Mastery course is designed for individuals looking to elevate their marketing skills while mastering video content creation. Combining AI-powered digital marketing with practical video editing expertise, this course equips learners with the tools to create compelling video content and drive digital marketing success. You’ll learn to optimize digital marketing campaigns using AI tools and master video editing software to produce engaging videos that enhance your online presence. Whether you're aiming to create digital ads, promotional videos, or content for social media, this course will provide you with hands-on experience and a strong portfolio.",
+          "descTwo": "Master both AI-enhanced digital marketing strategies and advanced video editing techniques in a 3-month program. Build a professional portfolio for both marketing and video production.",
+          "overviewList": [
+            {
+              "listItem": "Master both AI-powered digital marketing tools and advanced video editing software."
+            },
+            {
+              "listItem": "Learn to create and implement effective marketing campaigns with video content."
+            },
+            {
+              "listItem": "Build a comprehensive portfolio showcasing both your marketing strategies and video editing skills."
+            },
+            {
+              "listItem": "Hands-on projects and real-world applications in both fields."
+            },
+            {
+              "listItem": "Receive personalized mentorship from industry professionals."
+            },
+            {
+              "listItem": "Certificate of Completion to boost your career prospects."
+            }
+          ]
+        }
+      ],
+      "courseContent": [
+        {
+          "title": "Course Content",
+          "contentList": [
+            {
+              "title": "Introduction to Digital Marketing & Video Editing",
+              "time": "1 Week",
+              "collapsed": true,
+              "isShow": true,
+              "expand": true,
+              "listItem": [
+                {
+                  "text": "Introduction to digital marketing concepts: SEO, social media, PPC.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Overview of video editing tools and basic techniques.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Learning AI tools in marketing and their application in video production.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Core Digital Marketing Skills",
+              "time": "4 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Deep dive into SEO with AI tools.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Social media marketing strategies enhanced by AI.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Content marketing, email campaigns, and PPC with AI integration.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Hands-on exercises to apply marketing skills to real-world scenarios.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Intermediate Video Editing Techniques",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Basic video editing tools and transitions.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Advanced editing techniques: multi-camera editing, audio mixing, and color grading.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Creating videos for marketing campaigns: social media videos, ads, and explainer videos.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Advanced Digital Marketing & Video Editing Techniques",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Using AI for predictive analytics, chatbots, and eCommerce marketing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Advanced video editing techniques: motion graphics, VFX, and compositing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Integrating video content into marketing strategies for higher engagement.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Project-Based Learning and Final Project",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Final digital marketing campaign and video content project.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Storyboarding, scripting, and planning for a comprehensive marketing video.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Presentation and feedback from mentors to refine your portfolio.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "courseRequirement": [
+        {
+          "title": "Benefits",
+          "detailsList": [
+            {
+              "listItem": "Master both AI-powered digital marketing tools and advanced video editing software."
+            },
+            {
+              "listItem": "Learn to create and implement effective marketing campaigns with video content."
+            },
+            {
+              "listItem": "Build a comprehensive portfolio showcasing both your marketing strategies and video editing skills."
+            },
+            {
+              "listItem": "Hands-on projects and real-world applications in both fields."
+            },
+            {
+              "listItem": "Receive personalized mentorship from industry professionals."
+            },
+            {
+              "listItem": "Certificate of Completion to boost your career prospects."
+            }
+          ]
+        }
+      ],
+      "courseInstructor": [
+        {
+          "title": "Instructor",
+          "body": [
+            {
+              "id": 1,
+              "img": "/images/client/avatar-02.png",
+              "awardImg": "/images/icons/card-icon-1.png",
+              "sellsType": "Bestseller",
+              "contact": "+91 81380 60010",
+              "mail": "info@skillersity.com",
+              "name": "Christin P J",
+              "type": "Digital Marketing Expert",
+              "ratingNumber": "25",
+              "studentNumber": "30 ",
+              "review": "10",
+              "star": "4.9",
+              "course": "4",
+              "desc": "The program will be taught by industry experts with extensive experience in digital marketing, AI, and automation. Mentors will provide one-on-one guidance, answer questions, and offer insights into real-world applications.",
+              "social": [
+                {
+                  "link": "#",
+                  "icon": "facebook"
+                },
+                {
+                  "link": "#",
+                  "icon": "twitter"
+                },
+                {
+                  "link": "#",
+                  "icon": "instagram"
+                },
+                {
+                  "link": "#",
+                  "icon": "linkedin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "featuredReview": [
+        {
+          "title": "Featured review",
+          "body": [
+            {
+              "userImg": "/images/testimonial/testimonial-3.jpg",
+              "userName": "Farjana Bawnia",
+              "desc": "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            }
+          ]
+        }
+      ],
+      "relatedCourse": [
+        {
+          "userName": " Christin P J ",
+          "userCategory": "Marketing",
+          "body": [
+            {
+              "id": 1,
+              "title": "Advanced Digital Marketing",
+              "author": "Christin P J",
+              "post": " Digital Marketing",
+              "link": "/course-details",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            }
+          ]
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Hrs 20 Min"
+        },
+        {
+          "text": "Enrolled",
+          "desc": "100"
+        },
+        {
+          "text": "Lectures",
+          "desc": "50"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Language",
+          "desc": "English"
+        },
+        {
+          "text": "Quizzes",
+          "desc": "10"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Pass Percentage",
+          "desc": "95"
+        }
+      ],
+      "similarCourse": [
+        {
+          "id": 1,
+          "title": "React Front To Back",
+          "author": "Angela",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-01.jpg",
+          "avatar": "/images/client/avatar-02.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": false,
+          "rating": 15,
+          "discount": 40,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 2,
+          "title": "PHP Beginner Advanced",
+          "author": "Claudia Pruitt",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-02.jpg",
+          "avatar": "/images/client/avatar-04.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": true,
+          "rating": 15,
+          "discount": 0,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 3,
+          "title": "Angular Zero to Mastery",
+          "author": "Slaughter",
+          "post": "Languages",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-03.jpg",
+          "avatar": "/images/client/avatar-03.png",
+          "desc": "Angular Js long fact that a reader will be distracted by the readable.",
+          "button": false,
+          "rating": 5,
+          "discount": 10,
+          "lesson": 8,
+          "student": 30,
+          "price": 80,
+          "offPrice": 100
+        }
+      ],
+      "subCategories": [
+        {
+          "cate": "Healthcare"
+        },
+        {
+          "cate": "Beauty & fashion"
+        },
+        {
+          "cate": "Education & Travel"
+        },
+        {
+          "cate": "Kitchen"
+        },
+        {
+          "cate": "Medicle & entertain"
+        },
+        {
+          "cate": "Medicle & Science"
+        },
+        {
+          "cate": "Tour & Travel"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "courseTitle": "AI-Enhanced Digital Marketing + Graphic Designing Mastery",
+      "category": "Creator Course",
+      "courseType": "featured",
+      "desc": "This integrated course blends AI-powered digital marketing strategies with essential graphic design techniques. Learn how to leverage AI tools for creating impactful digital marketing campaigns and use advanced graphic design software to create visually stunning content. You'll develop the skills to design logos, social media posts, digital ads, and websites while mastering marketing strategies like SEO, content creation, and social media marketing. By the end of this course, you’ll have a portfolio of both digital marketing campaigns and graphic design work that you can showcase to potential employers or clients.",
+      "lesson": 5,
+      "review": 15,
+      "price": 40000,
+      "offPrice": 30000,
+      "student": 30,
+      "discount": 10000,
+      "sellsType": "Bestseller",
+      "star": "4.9",
+      "ratingNumber": "475",
+      "studentNumber": "029",
+      "cateSmallImg": "/images/category/web-design.png",
+      "cateBigImg": "/images/category/image/web-design.jpg",
+      "userImg": "/images/client/avatar-02.png",
+      "courseImg": "/images/course/course-01.jpg",
+      "courseListImg": "/images/course/course-list-01.jpg",
+      "awardImg": "/images/icons/card-icon-1.png",
+      "days": "12",
+      "isActiveCate": true,
+      "userName": " Christin P J ",
+      "userCategory": "Marketing & Creator Course",
+      "cateDesc": "",
+      "date": " 12/2024",
+      "language": "English",
+      "courseAward": "Certified Course",
+      "courseFor": [
+        "Marketing"
+      ],
+      "courseOverview": [
+        {
+          "title": "What you'll learn",
+          "desc": "The AI-Enhanced Digital Marketing + Graphic Designing Mastery course offers a comprehensive blend of digital marketing and graphic design skills. This course is ideal for individuals who want to learn both the creative side of visual content creation and the analytical side of digital marketing. By integrating AI tools into both fields, you will learn to create compelling campaigns and visually stunning content. Whether you're aiming to promote a brand, design marketing materials, or create social media graphics, this course will provide you with a complete skill set to excel in today’s digital world.",
+          "descTwo": "Master AI-enhanced digital marketing strategies and graphic design techniques in a 3-month program. Create impactful marketing campaigns and eye-catching visuals to boost your career.",
+          "overviewList": [
+            {
+              "listItem": "Learn both digital marketing and graphic design skills, enhancing your versatility."
+            },
+            {
+              "listItem": "Master AI tools for automating digital marketing campaigns and optimizing designs."
+            },
+            {
+              "listItem": "Create a portfolio with digital marketing campaigns and high-quality graphic designs."
+            },
+            {
+              "listItem": "Receive personalized mentorship from industry experts in marketing and design."
+            },
+            {
+              "listItem": "Gain practical experience through hands-on projects and real-world applications."
+            },
+            {
+              "listItem": "Certification upon successful completion to enhance your career opportunities."
+            }
+          ]
+        }
+      ],
+      "courseContent": [
+        {
+          "title": "Course Content",
+          "contentList": [
+            {
+              "title": "Introduction to Digital Marketing & Graphic Design",
+              "time": "1 Week",
+              "collapsed": true,
+              "isShow": true,
+              "expand": true,
+              "listItem": [
+                {
+                  "text": "Basics of digital marketing: SEO, social media marketing, PPC.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Introduction to graphic design: design principles, color theory, and typography.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Overview of AI tools used in digital marketing and design.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Setting up design software (Photoshop, Illustrator, etc.).",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Core Digital Marketing Skills",
+              "time": "4 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Deep dive into SEO with AI tools.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Social media marketing strategies enhanced by AI.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Content marketing, email campaigns, and PPC with AI integration.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Hands-on exercises to apply marketing skills to real-world scenarios.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": " Graphic Design Fundamentals",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Mastering design software: Adobe Photoshop, Illustrator, CorelDRAW.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Creating visual content: designing logos, flyers, and social media posts.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Understanding typography, layout design, and color theory for marketing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Hands-on project: Create a brand identity kit (logo, color palette, typography).",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Advanced Digital Marketing Strategies & Graphic Design Techniques",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Advanced AI tools in digital marketing: predictive analytics, voice search optimization, and chatbots.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Advanced graphic design techniques: creating motion graphics, interactive designs, and multimedia.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Integrating graphic design into digital marketing strategies for cohesive campaigns.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Hands-on project: Design a marketing campaign with visuals, ads, and web content.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Project-Based Learning and Final Project",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Develop a full-scale digital marketing campaign with graphics and ads.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Storyboarding, scripting, and producing marketing videos or social media content.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Final project presentation: Combine marketing and design skills into a professional portfolio piece.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "courseRequirement": [
+        {
+          "title": "Benefits",
+          "detailsList": [
+            {
+              "listItem": "Learn both digital marketing and graphic design skills, enhancing your versatility."
+            },
+            {
+              "listItem": "Master AI tools for automating digital marketing campaigns and optimizing designs."
+            },
+            {
+              "listItem": "Create a portfolio with digital marketing campaigns and high-quality graphic designs."
+            },
+            {
+              "listItem": "Receive personalized mentorship from industry experts in marketing and design."
+            },
+            {
+              "listItem": "Gain practical experience through hands-on projects and real-world applications."
+            },
+            {
+              "listItem": "Certification upon successful completion to enhance your career opportunities."
+            }
+          ]
+        }
+      ],
+      "courseInstructor": [
+        {
+          "title": "Instructor",
+          "body": [
+            {
+              "id": 1,
+              "img": "/images/client/avatar-02.png",
+              "awardImg": "/images/icons/card-icon-1.png",
+              "sellsType": "Bestseller",
+              "contact": "+91 81380 60010",
+              "mail": "info@skillersity.com",
+              "name": "Christin P J",
+              "type": "Digital Marketing Expert",
+              "ratingNumber": "25",
+              "studentNumber": "30 ",
+              "review": "10",
+              "star": "4.9",
+              "course": "4",
+              "desc": "The program will be taught by industry experts with extensive experience in digital marketing, AI, and automation. Mentors will provide one-on-one guidance, answer questions, and offer insights into real-world applications.",
+              "social": [
+                {
+                  "link": "#",
+                  "icon": "facebook"
+                },
+                {
+                  "link": "#",
+                  "icon": "twitter"
+                },
+                {
+                  "link": "#",
+                  "icon": "instagram"
+                },
+                {
+                  "link": "#",
+                  "icon": "linkedin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "featuredReview": [
+        {
+          "title": "Featured review",
+          "body": [
+            {
+              "userImg": "/images/testimonial/testimonial-3.jpg",
+              "userName": "Farjana Bawnia",
+              "desc": "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            }
+          ]
+        }
+      ],
+      "relatedCourse": [
+        {
+          "userName": " Christin P J ",
+          "userCategory": "Marketing",
+          "body": [
+            {
+              "id": 1,
+              "title": "Advanced Digital Marketing",
+              "author": "Christin P J",
+              "post": " Digital Marketing",
+              "link": "/course-details",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            }
+          ]
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Hrs 20 Min"
+        },
+        {
+          "text": "Enrolled",
+          "desc": "100"
+        },
+        {
+          "text": "Lectures",
+          "desc": "50"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Language",
+          "desc": "English"
+        },
+        {
+          "text": "Quizzes",
+          "desc": "10"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Pass Percentage",
+          "desc": "95"
+        }
+      ],
+      "similarCourse": [
+        {
+          "id": 1,
+          "title": "React Front To Back",
+          "author": "Angela",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-01.jpg",
+          "avatar": "/images/client/avatar-02.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": false,
+          "rating": 15,
+          "discount": 40,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 2,
+          "title": "PHP Beginner Advanced",
+          "author": "Claudia Pruitt",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-02.jpg",
+          "avatar": "/images/client/avatar-04.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": true,
+          "rating": 15,
+          "discount": 0,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 3,
+          "title": "Angular Zero to Mastery",
+          "author": "Slaughter",
+          "post": "Languages",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-03.jpg",
+          "avatar": "/images/client/avatar-03.png",
+          "desc": "Angular Js long fact that a reader will be distracted by the readable.",
+          "button": false,
+          "rating": 5,
+          "discount": 10,
+          "lesson": 8,
+          "student": 30,
+          "price": 80,
+          "offPrice": 100
+        }
+      ],
+      "subCategories": [
+        {
+          "cate": "Healthcare"
+        },
+        {
+          "cate": "Beauty & fashion"
+        },
+        {
+          "cate": "Education & Travel"
+        },
+        {
+          "cate": "Kitchen"
+        },
+        {
+          "cate": "Medicle & entertain"
+        },
+        {
+          "cate": "Medicle & Science"
+        },
+        {
+          "cate": "Tour & Travel"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "courseTitle": "AI-Enhanced Digital Marketing + Graphic Designing + Video Editing Mastery",
+      "category": "Creator Course",
+      "courseType": "featured",
+      "desc": "This dynamic and comprehensive course offers a unique blend of digital marketing, graphic design, and video editing skills, all enhanced with AI tools. Gain the ability to create and execute digital marketing strategies, design compelling visual content, and produce high-quality videos for marketing campaigns. You'll learn to optimize SEO, create stunning graphics, and edit professional videos, all while utilizing AI tools to automate and enhance workflows. By the end of this course, you’ll have a portfolio of marketing campaigns, graphic designs, and video edits, ready to boost your career.",
+      "lesson": 5,
+      "review": 15,
+      "price": 40000,
+      "offPrice": 30000,
+      "student": 30,
+      "discount": 10000,
+      "sellsType": "Bestseller",
+      "star": "4.9",
+      "ratingNumber": "475",
+      "studentNumber": "029",
+      "cateSmallImg": "/images/category/web-design.png",
+      "cateBigImg": "/images/category/image/web-design.jpg",
+      "userImg": "/images/client/avatar-02.png",
+      "courseImg": "/images/course/course-01.jpg",
+      "courseListImg": "/images/course/course-list-01.jpg",
+      "awardImg": "/images/icons/card-icon-1.png",
+      "days": "12",
+      "isActiveCate": true,
+      "userName": " Christin P J ",
+      "userCategory": "Marketing & Creator Course",
+      "cateDesc": "",
+      "date": " 12/2024",
+      "language": "English",
+      "courseAward": "Certified Course",
+      "courseFor": [
+        "Marketing"
+      ],
+      "courseOverview": [
+        {
+          "title": "What you'll learn",
+          "desc": "The AI-Enhanced Digital Marketing + Graphic Designing + Video Editing Mastery course is a game-changing program designed for individuals who want to master the digital skills needed to excel in the modern marketing landscape. This integrated course combines digital marketing strategies, graphic design techniques, and video editing expertise, all powered by AI tools. Whether you’re looking to run SEO campaigns, create stunning visuals, or edit high-quality videos, this course provides you with a complete set of skills that will help you succeed in the digital world. By the end of the course, you will be capable of executing full-fledged marketing campaigns that include stunning visuals and videos.",
+          "descTwo": "Master AI-enhanced digital marketing, graphic design, and video editing techniques in this 3-month program. Create impactful marketing campaigns, eye-catching visuals, and professional videos for a strong portfolio.",
+          "overviewList": [
+            {
+              "listItem": "Master three key digital skills: marketing, graphic design, and video editing."
+            },
+            {
+              "listItem": "Leverage AI tools to optimize your workflows and marketing efforts."
+            },
+            {
+              "listItem": "Build a comprehensive portfolio with marketing campaigns, graphic designs, and professional videos."
+            },
+            {
+              "listItem": "Gain real-world experience through hands-on projects."
+            },
+            {
+              "listItem": "Personalized mentorship from industry professionals in digital marketing, graphic design, and video editing."
+            },
+            {
+              "listItem": "Receive a certificate upon successful completion to enhance your career prospects."
+            }
+          ]
+        }
+      ],
+      "courseContent": [
+        {
+          "title": "Course Content",
+          "contentList": [
+            {
+              "title": " Introduction to Digital Marketing, Graphic Design, and Video Editing",
+              "time": "1 Week",
+              "collapsed": true,
+              "isShow": true,
+              "expand": true,
+              "listItem": [
+                {
+                  "text": "Overview of digital marketing, graphic design, and video editing basics.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Introduction to AI tools in digital marketing, graphic design, and video editing.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Hands-on sessions: Setting up design and video editing software.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Basics of SEO, content marketing, and video editing workflows.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Core Digital Marketing Skills & AI Tools",
+              "time": "4 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "SEO strategies and AI-powered SEO tools.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Social media marketing strategies enhanced by AI.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Content marketing and social media strategies.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "AI tools for PPC campaign automation and performance optimization.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Hands-on project: Develop a digital marketing strategy using AI tools.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Graphic Design Fundamentals & Advanced Techniques",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Mastering Adobe Photoshop, Illustrator, and CorelDRAW.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Designing logos, social media posts, and brand identity kits.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Advanced design techniques: motion graphics, typography, and color theory.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Hands-on project: Create a marketing campaign visual (ads, social media posts, etc.).",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Video Editing Fundamentals & Advanced Techniques",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Learning Adobe Premiere Pro, After Effects, and Final Cut Pro.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Basic video editing: cutting, trimming, and syncing audio.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Advanced video editing: color grading, motion graphics, and visual effects.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Hands-on project: Create a video advertisement or promotional content.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Integrated Project-Based Learning & Final Project",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Develop an integrated marketing campaign combining video, graphics, and digital marketing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Storyboarding and scripting for video content.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Final project presentation: Submit a complete marketing campaign including digital ads, social media posts, SEO optimization, and video content.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "courseRequirement": [
+        {
+          "title": "Benefits",
+          "detailsList": [
+            {
+              "listItem": "Master three key digital skills: marketing, graphic design, and video editing."
+            },
+            {
+              "listItem": "Leverage AI tools to optimize your workflows and marketing efforts."
+            },
+            {
+              "listItem": "Build a comprehensive portfolio with marketing campaigns, graphic designs, and professional videos."
+            },
+            {
+              "listItem": "Gain real-world experience through hands-on projects."
+            },
+            {
+              "listItem": "Personalized mentorship from industry professionals in digital marketing, graphic design, and video editing."
+            },
+            {
+              "listItem": "Receive a certificate upon successful completion to enhance your career prospects."
+            }
+          ]
+        }
+      ],
+      "courseInstructor": [
+        {
+          "title": "Instructor",
+          "body": [
+            {
+              "id": 1,
+              "img": "/images/client/avatar-02.png",
+              "awardImg": "/images/icons/card-icon-1.png",
+              "sellsType": "Bestseller",
+              "contact": "+91 81380 60010",
+              "mail": "info@skillersity.com",
+              "name": "Christin P J",
+              "type": "Digital Marketing Expert",
+              "ratingNumber": "25",
+              "studentNumber": "30 ",
+              "review": "10",
+              "star": "4.9",
+              "course": "4",
+              "desc": "The program will be taught by industry experts with extensive experience in digital marketing, AI, and automation. Mentors will provide one-on-one guidance, answer questions, and offer insights into real-world applications.",
+              "social": [
+                {
+                  "link": "#",
+                  "icon": "facebook"
+                },
+                {
+                  "link": "#",
+                  "icon": "twitter"
+                },
+                {
+                  "link": "#",
+                  "icon": "instagram"
+                },
+                {
+                  "link": "#",
+                  "icon": "linkedin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "featuredReview": [
+        {
+          "title": "Featured review",
+          "body": [
+            {
+              "userImg": "/images/testimonial/testimonial-3.jpg",
+              "userName": "Farjana Bawnia",
+              "desc": "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            }
+          ]
+        }
+      ],
+      "relatedCourse": [
+        {
+          "userName": " Christin P J ",
+          "userCategory": "Marketing",
           "body": [
             {
               "id": 1,
