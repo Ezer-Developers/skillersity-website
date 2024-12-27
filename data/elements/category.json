@@ -1,0 +1,88 @@
+{
+  "categoryItemOne": [
+    {
+      "text": "AI Based Digital Marketing",
+      "link": "#"
+    },
+    {
+      "text": "Digital Marketing Basics",
+      "link": "#"
+    },
+    {
+      "text": "Advanced Digital Marketing",
+      "link": "#"
+    },
+    {
+      "text": "Search Engine Optimization",
+      "link": "#"
+    },
+    {
+      "text": "Social Media Managment",
+      "link": "#"
+    },
+    {
+      "text": "Google Ads",
+      "link": "#"
+    }
+  ],
+  "categoryItemTwo": [
+    {
+      "text": "Photo",
+      "link": "#"
+    },
+    {
+      "text": "English",
+      "link": "#"
+    },
+    {
+      "text": "Figma",
+      "link": "#"
+    },
+    {
+      "text": "Web Development",
+      "link": "#"
+    },
+    {
+      "text": "Read",
+      "link": "#"
+    }
+  ],
+  "categoryItemThree": [
+    {
+      "text": "Course 1",
+      "link": "#"
+    },
+    {
+      "text": "Course 2",
+      "link": "#"
+    },
+    {
+      "text": "Course 3",
+      "link": "#"
+    },
+    {
+      "text": "Course 4",
+      "link": "#"
+    },
+    {
+      "text": "Course 5",
+      "link": "#"
+    },
+    {
+      "text": "Course 6",
+      "link": "#"
+    },
+    {
+      "text": "Course 7",
+      "link": "#"
+    },
+    {
+      "text": "Course 8",
+      "link": "#"
+    },
+    {
+      "text": "Course 9",
+      "link": "#"
+    }
+  ]
+}

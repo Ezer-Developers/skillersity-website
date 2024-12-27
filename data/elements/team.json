@@ -1,0 +1,72 @@
+{
+  "team": [
+    {
+      "img": "/images/team/team-01.jpg",
+      "isLarge": true,
+      "isActive": true,
+      "details": [
+        {
+          "img": "/images/team/team-01.jpg",
+          "name": "Shamil M",
+          "type": "CEO/Founder",
+          "location": "",
+          "desc": "",
+          "descTwo": "",
+          "phone": "",
+          "email": "shamil@skillersity.com"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-02.jpg",
+      "isLarge": true,
+      "isActive": true,
+      "details": [
+        {
+          "img": "/images/team/team-02.jpg",
+          "name": "Mohammed Ambalan",
+          "type": "CMO",
+          "location": "",
+          "desc": "",
+          "descTwo": "",
+          "phone": "",
+          "email": "ambalan@skillersity.com"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-02.jpg",
+      "isLarge": true,
+      "isActive": true,
+      "details": [
+        {
+          "img": "/images/team/team-02.jpg",
+          "name": "Mudassir Nazar",
+          "type": "Creative Director",
+          "location": "",
+          "desc": "",
+          "descTwo": "",
+          "phone": "",
+          "email": "mudassir@skillersity.com"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-02.jpg",
+      "isLarge": true,
+      "isActive": true,
+      "details": [
+        {
+          "img": "/images/team/team-02.jpg",
+          "name": "Christin P J",
+          "type": "Digital Marketing Professional",
+          "location": "",
+          "desc": "",
+          "descTwo": "",
+          "phone": "",
+          "email": "christin@skillersity.com"
+        }
+      ]
+    }
+  ]
+}

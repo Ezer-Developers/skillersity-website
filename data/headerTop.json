@@ -1,0 +1,45 @@
+{
+  "headerTopOne": [
+    {
+      "insFollowers": 100,
+      "fbFollowers": 500,
+      "type": "Followers",
+      "phone": "+91 81380 60010",
+      "introPrice": "Intro price. Get Histudy for Big Sale -95% off.",
+      "badgeText": "Hot",
+      "limit": "Limited Time Offer",
+      "img": "/images/icons/hand-emojji.svg",
+      "language": [
+        {
+          "defaultTitle": "English",
+          "img": "/images/icons/en-us.png",
+          "link": "#",
+          "subLng": [
+            {
+              "name": "Français",
+              "img": "/images/icons/fr.png",
+              "link": "#"
+            },
+            {
+              "name": "Deutsch",
+              "img": "/images/icons/de.png",
+              "link": "#"
+            }
+          ]
+        }
+      ],
+      "currency": [
+        {
+          "defaultCurrency": "INR",
+          "link": "#",
+          "subCurr": [
+            {
+              "currency": "USD",
+              "link": "#"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
