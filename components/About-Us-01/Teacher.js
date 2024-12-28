@@ -36,7 +36,7 @@ const Teacher = () => {
                             {item.dep}
                           </h6>
                           <span className="team-form">
-                            <i className="feather-map-pin"></i>
+                            {/* <i className="feather-map-pin"></i> */}
                             <span className="location"> {item.address}</span>
                           </span>
                         </div>

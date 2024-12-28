@@ -2659,6 +2659,7 @@ textarea:-ms-input-placeholder {
 
 .rbt-section-gap {
   padding: 120px 0;
+  padding-bottom: 0px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2722,18 +2723,31 @@ textarea:-ms-input-placeholder {
 }
 
 .rbt-section-gapTop {
+  padding: 80px 0px;
+}
+
+.csm-rbt-section-gapBtm {
   padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .rbt-section-gapTop {
+    padding: 80px 0px;
+  }
+  .csm-rbt-section-gapBtm {
     padding-top: 80px;
+    padding-bottom: 80px;
   }
 }
 
 @media only screen and (max-width: 767px) {
   .rbt-section-gapTop {
+    padding: 80px 0px;
+  }
+  .csm-rbt-section-gapBtm {
     padding-top: 80px;
+    padding-bottom: 80px;
   }
 }
 

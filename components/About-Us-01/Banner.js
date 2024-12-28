@@ -11,8 +11,8 @@ const Banner = () => {
                 <span className="subtitle bg-coral-opacity">How We Work</span>
               </div>
               <h1 className="title display-one text-white">
-                Take Challenge for Build Your Life. <br />
-                The World Most Lessons for Back to Your Life.
+                Learn Today<br />
+                Take Action Tommorow
               </h1>
               <div className="read-more-btn mt--40">
                 <Link

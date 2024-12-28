@@ -258,7 +258,7 @@ const LanguageAcademy = ({ blogs }) => {
         </div>
       </div> */}
 
-      <div className="rbt-about-area bg-color-white rbt-section-gapTop pb_md--80 pb_sm--80 about-style-1 csm-pb-40">
+      <div className="rbt-about-area bg-color-white csm-rbt-section-gapBtm pb_md--80 pb_sm--80 about-style-1">
         <div className="container">
           <ParallaxProvider>
             <AboutTwo />
@@ -267,7 +267,7 @@ const LanguageAcademy = ({ blogs }) => {
       </div>
 
       <main className="rbt-main-wrapper">
-        <div className="rbt-course-area bg-color-extra2 rbt-section-gap" style={{marginTop: '60px'}}>
+        <div className="rbt-course-area bg-color-extra2 rbt-section-gap">
           <div className="container">
             <div className="row mb--60">
               <div className="col-lg-12">
@@ -346,7 +346,7 @@ const LanguageAcademy = ({ blogs }) => {
           <TestimonialSeven />
         </div>
 
-        <div className="rbt-brand-area bg-color-white rbt-section-gap">
+        {/* <div className="rbt-brand-area bg-color-white rbt-section-gap">
           <div className="container">
             <div className="row align-items-center">
               <div className="col-lg-12">
@@ -363,7 +363,7 @@ const LanguageAcademy = ({ blogs }) => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         <div className="rbt-team-area bg-color-white rbt-section-gap">
           <div className="container">

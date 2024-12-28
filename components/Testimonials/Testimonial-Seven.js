@@ -31,14 +31,14 @@ const TestimonialSeven = () => {
                       <div className="description">
                         <p className="subtitle-3">{item.desc}</p>
                         <div className="clint-info-wrapper">
-                          <div className="thumb">
-                            {/* <Image
+                          {/* <div className="thumb">
+                            <Image
                               src={item.client}
                               width={494}
                               height={494}
                               alt="Clint Images"
-                            /> */}
-                          </div>
+                            />
+                          </div> */}
                           <div className="client-info">
                             <h5 className="title">
                               {item.title} <i>{item.position}</i>
@@ -78,14 +78,14 @@ const TestimonialSeven = () => {
                       <div className="description">
                         <p className="subtitle-3">{item.desc}</p>
                         <div className="clint-info-wrapper">
-                          <div className="thumb">
-                            {/* <Image
+                          {/* <div className="thumb">
+                            <Image
                               src={item.client}
                               width={494}
                               height={494}
                               alt="Clint Images"
-                            /> */}
-                          </div>
+                            />
+                          </div> */}
                           <div className="client-info">
                             <h5 className="title">
                               {item.title} <i>{item.position}</i>

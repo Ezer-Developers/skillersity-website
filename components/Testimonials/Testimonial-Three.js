@@ -81,14 +81,14 @@ const TestimonialThree = ({ bgClass, designation, isStar,subTitleBg }) => {
                         >
                           <div className="inner">
                             <div className="clint-info-wrapper">
-                              <div className="thumb">
+                              {/* <div className="thumb">
                                 <Image
                                   src={item.img}
                                   width={494}
                                   height={494}
                                   alt="Clint Images"
                                 />
-                              </div>
+                              </div> */}
                               <div className="client-info">
                                 <h5 className="title">{item.title}</h5>
                                 <span className={`${designation}`}>

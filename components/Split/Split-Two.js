@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useEffect } from "react";
-import Link from "next/link";
 import Image from "next/image";
 
 import "venobox/dist/venobox.min.css";
@@ -16,6 +15,7 @@ const SplitTwo = ({ isImg }) => {
       });
     });
   }, []);
+
   return (
     <>
       {SplitData &&
@@ -40,45 +40,19 @@ const SplitTwo = ({ isImg }) => {
                 </div>
               </div>
             </div>
-            {isImg ? (
-              <div className="col-lg-6 order-1 order-lg-2">
-                <div className="video-popup-wrapper">
-                  <Image
-                    className="w-100 rbt-radius"
-                    src={data.img}
-                    width={638}
-                    height={458}
-                    alt="Video Images"
-                  />
-                </div>
+
+            {/* Display image without YouTube popup */}
+            <div className="col-lg-6 order-1 order-lg-2">
+              <div className="video-popup-wrapper">
+                <Image
+                  className="w-100 rbt-radius"
+                  src={isImg ? data.img : data.imgTwo}
+                  width={isImg ? 638 : 590}
+                  height={isImg ? 458 : 424}
+                  alt="Video Images"
+                />
               </div>
-            ) : (
-              <div className="col-lg-6 order-1 order-lg-2">
-                <div className="video-popup-wrapper">
-                  <Image
-                    className="w-100 rbt-radius"
-                    src={data.imgTwo}
-                    width={590}
-                    height={424}
-                    alt="Video Images"
-                  />
-                  <Link
-                    className="popup-video position-to-top"
-                    data-vbtype="video"
-                    href="https://www.youtube.com/watch?v=AxAF3zQPJeg"
-                  >
-                    <span>
-                      <Image
-                        src={data.imgIcon}
-                        width={100}
-                        height={70}
-                        alt=""
-                      />
-                    </span>
-                  </Link>
-                </div>
-              </div>
-            )}
+            </div>
           </div>
         ))}
     </>

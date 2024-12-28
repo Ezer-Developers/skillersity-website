@@ -28,25 +28,6 @@ const HeaderRightTwo = ({ btnClass, btnText, userType }) => {
           </Link>
         </li>
 
-        <li className="access-icon rbt-mini-cart">
-          <Link
-            className="rbt-cart-sidenav-activation rbt-round-btn"
-            href="#"
-            onClick={() => setCart(!cartToggle)}
-          >
-            <i className="feather-shopping-cart"></i>
-            <span className="rbt-cart-count">{total_items}</span>
-          </Link>
-        </li>
-
-        <li className="account-access rbt-user-wrapper d-none d-xl-block">
-          <Link href="#">
-            <i className="feather-user"></i>
-            {userType}
-          </Link>
-          <User />
-        </li>
-
         <li className="access-icon rbt-user-wrapper d-block d-xl-none">
           <Link className="rbt-round-btn" href="#">
             <i className="feather-user"></i>
