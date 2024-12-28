@@ -38,7 +38,7 @@ const EventParticipants = ({ getEventData }) => {
                     <p className="description">{data.desc}</p>
                     <ul className="social-icon social-default icon-naked mt--20">
                       <li>
-                        <Link href="https://www.facebook.com/">
+                        <Link href="https://www.facebook.com/people/Skillersity/61569769297477//">
                           <i className="feather-facebook"></i>
                         </Link>
                       </li>

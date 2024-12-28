@@ -2,9 +2,9 @@
   "footerOne": [
     {
       "description": " We’re always in search for talented and motivated people.Don’t be shy introduce yourself!",
-      "phone": "(406) 555-0120",
+      "phone": "+91 81380 60010",
       "mail": "rainbow@example.com",
-      "address": "North America, USA",
+      "address": "Panadans, University Road, Kalamassery, Kochi, Kerala 682022",
       "usefulLinks": [
         {
           "text": "Marketplace",
@@ -52,7 +52,7 @@
       "socialLink": [
         {
           "icon": "feather-facebook",
-          "link": "https://www.facebook.com/"
+          "link": "https://www.facebook.com/people/Skillersity/61569769297477//"
         },
         {
           "icon": "feather-twitter",
@@ -71,11 +71,11 @@
   ],
   "footerTwo": [
     {
-      "description": "We’re always in search for talented and motivated people.Don’t be shy introduce yourself!",
-      "descriptionTwo": "2000+ Our students are subscribe Around the World.Don’t be shy introduce yourself!",
-      "phone": "(406) 555-0120",
-      "mail": "admin@example.com",
-      "address": "North America, USA",
+      "description": "We’re always in search for talented and motivated people. Don’t be shy introduce yourself!",
+      "descriptionTwo": "2000+ Our students are subscribe Around the World. Don’t wait to miss your chance.",
+      "phone": "+91 81380 60010",
+      "mail": "info@skillersity.com",
+      "address": "Panadans, University Road, Kalamassery, Kochi, Kerala 682022",
       "usefulLinks": [
         {
           "text": "Marketplace",
@@ -123,7 +123,7 @@
       "socialLink": [
         {
           "icon": "feather-facebook",
-          "link": "https://www.facebook.com/"
+          "link": "https://www.facebook.com/people/Skillersity/61569769297477//"
         },
         {
           "icon": "feather-twitter",

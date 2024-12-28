@@ -267,7 +267,7 @@ const LanguageAcademy = ({ blogs }) => {
       </div>
 
       <main className="rbt-main-wrapper">
-        <div className="rbt-course-area bg-color-extra2 rbt-section-gap">
+        <div className="rbt-course-area bg-color-extra2 rbt-section-gap" style={{marginTop: '60px'}}>
           <div className="container">
             <div className="row mb--60">
               <div className="col-lg-12">

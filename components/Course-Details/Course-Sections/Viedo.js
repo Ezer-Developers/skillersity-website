@@ -161,7 +161,7 @@ const Viedo = ({ checkMatchCourses }) => {
           <div className="rbt-post-share d-flex align-items-center justify-content-center">
             <ul className="social-icon social-default transparent-with-border justify-content-center">
               <li>
-                <Link href="https://www.facebook.com/">
+                <Link href="https://www.facebook.com/people/Skillersity/61569769297477//">
                   <i className="feather-facebook"></i>
                 </Link>
               </li>

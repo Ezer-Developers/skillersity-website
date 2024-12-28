@@ -107,7 +107,7 @@ const TeamOne = () => {
                             <p>{item.descTwo}</p>
                             <ul className="social-icon social-default mt--20 justify-content-start">
                               <li>
-                                <Link href="https://www.facebook.com/">
+                                <Link href="https://www.facebook.com/people/Skillersity/61569769297477//">
                                   <i className="feather-facebook"></i>
                                 </Link>
                               </li>

@@ -216,7 +216,7 @@ const OnlineCourse = () => {
                     <h5>You can also follow us on:</h5>
                     <ul className="social-icon social-default transparent-with-border justify-content-start mt--30">
                       <li>
-                        <Link href="https://www.facebook.com/">
+                        <Link href="https://www.facebook.com/people/Skillersity/61569769297477//">
                           <i className="feather-facebook"></i>
                         </Link>
                       </li>

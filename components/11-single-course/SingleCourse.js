@@ -268,7 +268,7 @@ const SingleCourse = () => {
                             </p>
                             <ul className="social-icon color-white social-default transparent-with-border justify-content-start mt--15">
                               <li>
-                                <Link href="https://www.facebook.com/">
+                                <Link href="https://www.facebook.com/people/Skillersity/61569769297477//">
                                   <i className="feather-facebook"></i>
                                 </Link>
                               </li>

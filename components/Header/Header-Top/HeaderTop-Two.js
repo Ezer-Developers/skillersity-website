@@ -36,7 +36,7 @@ const HeaderTopTwo = ({ gapSpaceBetween, container }) => {
                 <div className="social-icon-wrapper">
                   <ul className="social-icon social-default icon-naked">
                     <li>
-                      <Link href="https://www.facebook.com/">
+                      <Link href="https://www.facebook.com/people/Skillersity/61569769297477//">
                         <i className="feather-facebook"></i>
                       </Link>
                     </li>

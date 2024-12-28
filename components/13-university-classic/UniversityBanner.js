@@ -60,7 +60,7 @@ const UniversityBanner = () => {
                         <div className="social-share-wrapper mt--40">
                           <ul className="social-icon social-default transparent-with-border">
                             <li>
-                              <Link href="https://www.facebook.com/">
+                              <Link href="https://www.facebook.com/people/Skillersity/61569769297477//">
                                 <i className="feather-facebook"></i>
                               </Link>
                             </li>
@@ -126,7 +126,7 @@ const UniversityBanner = () => {
                         <div className="social-share-wrapper mt--40">
                           <ul className="social-icon social-default transparent-with-border">
                             <li>
-                              <Link href="https://www.facebook.com/">
+                              <Link href="https://www.facebook.com/people/Skillersity/61569769297477//">
                                 <i className="feather-facebook"></i>
                               </Link>
                             </li>
@@ -190,7 +190,7 @@ const UniversityBanner = () => {
                         <div className="social-share-wrapper mt--40">
                           <ul className="social-icon social-default transparent-with-border">
                             <li>
-                              <Link href="https://www.facebook.com/">
+                              <Link href="https://www.facebook.com/people/Skillersity/61569769297477//">
                                 <i className="feather-facebook"></i>
                               </Link>
                             </li>

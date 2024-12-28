@@ -107,7 +107,7 @@ tags: ["Education", "Life Style", "React","Javascript","Web App","Application"]
 social: [
   {
     icon: "feather-facebook",
-    url: "https://www.facebook.com"
+    url: "https://www.facebook.com/people/Skillersity/61569769297477/"
   },
   {
     icon: "feather-instagram",
@@ -127,7 +127,7 @@ author: [
           social: [
             {
               icon: "feather-facebook",
-              url: "https://www.facebook.com"
+              url: "https://www.facebook.com/people/Skillersity/61569769297477/"
             },
             {
               icon: "feather-instagram",

@@ -115,7 +115,7 @@ const SideNav = () => {
             <span className="rbt-short-title d-block">Find With Us</span>
             <ul className="social-icon social-default transparent-with-border justify-content-start mt--20">
               <li>
-                <a href="https://www.facebook.com/">
+                <a href="https://www.facebook.com/people/Skillersity/61569769297477//">
                   <i className="feather-facebook"></i>
                 </a>
               </li>
