@@ -9,10 +9,6 @@ import { useState } from "react";
 import MenuData from "../../data/MegaMenu.json";
 
 import CourseLayout from "./NavProps/CourseLayout";
-import PageLayout from "./NavProps/PageLayout";
-import ElementsLayout from "./NavProps/ElementsLayout";
-
-import addImage from "../../public/images/service/mobile-cat.jpg";
 
 const Nav = () => {
   const [activeMenuItem, setActiveMenuItem] = useState(null);
@@ -109,9 +105,9 @@ const Nav = () => {
         <li className="position-static">
           <Link href="/contact">Contact Us</Link>
         </li>
-        <li className="with-megamenu has-menu-child-item position-static">
+        {/* <li className="with-megamenu has-menu-child-item position-static">
           <Link href="/blog-grid"> Blog </Link>
-        </li>
+        </li> */}
       </ul>
     </nav>
   );

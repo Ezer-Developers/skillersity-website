@@ -50,17 +50,17 @@ const AboutUsPage = () => {
                     <span className="subtitle bg-pink-opacity">
                       Learners Feedback
                     </span>
-                    <h2 className="title">What Our Learners Say</h2>
+                    <h2 className="title">What Our Students Say </h2>
                     <p className="description mt--20">
                       Learning communicate to global world and build a bright
-                      future with our Skillersity.
+                      future with Skillersity.
                     </p>
                     <div className="veiw-more-btn mt--20">
                       <Link
                         className="rbt-btn btn-gradient rbt-marquee-btn marquee-text-y"
-                        href="#"
+                        href="contact"
                       >
-                        <span data-text="Marquee Y">Contact Us</span>
+                        <span data-text="Contact Us">Contact Us</span>
                       </Link>
                     </div>
                   </div>
