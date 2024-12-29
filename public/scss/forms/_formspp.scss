@@ -65,17 +65,27 @@
 }
 
 /* Form styling */
-.form-group {
+.form-group-csm {
     margin-bottom: 15px;
+    color: black !important;
 }
 
-input,
+.form-group-csm input::placeholder {
+    color: black !important;
+}
+
+#message {
+    color: black !important;
+}
+
+.form-group-csm input,
 textarea {
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 1rem;
+    color: black !important;
 }
 
 textarea {

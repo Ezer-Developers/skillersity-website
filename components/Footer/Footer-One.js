@@ -78,12 +78,17 @@ const FooterOne = ({ bgColor }) => {
                       </div>
                     </div>
                   </div>
-
                   <SingleFooter
+                    classOne="col-lg-2 col-md-6 col-sm-6 col-12 mt--30"
+                    title=""
+                    footerType={footer.usefulLinks}
+                  />
+
+                  {/* <SingleFooter
                     classOne="col-lg-2 col-md-6 col-sm-6 col-12 mt--30"
                     title="Useful Links"
                     footerType={footer.usefulLinks}
-                  />
+                  /> */}
                   <SingleFooter
                     classOne="col-lg-2 col-md-6 col-sm-6 col-12"
                     title="Our Company"
