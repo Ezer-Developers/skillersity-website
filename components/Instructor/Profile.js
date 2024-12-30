@@ -45,7 +45,7 @@ const Profile = () => {
               <div className="rbt-profile-content b2">Email</div>
             </div>
             <div className="col-lg-8 col-md-8">
-              <div className="rbt-profile-content b2">info@skillersity.com</div>
+              <div className="rbt-profile-content b2"> info@skillersity.com</div>
             </div>
           </div>
           <div className="rbt-profile-row row row--15 mt--15">

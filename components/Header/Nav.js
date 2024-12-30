@@ -105,6 +105,9 @@ const Nav = () => {
         <li className="position-static">
           <Link href="/contact">Contact Us</Link>
         </li>
+        <li className="position-static" >
+          <Link href="/learn-for-free">Start For Free</Link>
+        </li>
         {/* <li className="with-megamenu has-menu-child-item position-static">
           <Link href="/blog-grid"> Blog </Link>
         </li> */}

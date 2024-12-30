@@ -20,8 +20,9 @@ const CourseCardTwo = ({ course }) => {
   return (
     <>
       <div
-        className={`rbt-course-grid-column list-column-half ${toggle ? "active-list-view" : ""
-          }`}
+        className={`rbt-course-grid-column list-column-half ${
+          toggle ? "active-list-view" : ""
+        }`}
       >
         {course.map((data, index) => (
           <div
@@ -32,8 +33,9 @@ const CourseCardTwo = ({ course }) => {
             key={index}
           >
             <div
-              className={`rbt-card variation-01 rbt-hover ${toggle ? "card-list-2" : ""
-                }`}
+              className={`rbt-card variation-01 rbt-hover ${
+                toggle ? "card-list-2" : ""
+              }`}
             >
               <div className="rbt-card-img">
                 <Link href={`/course-detail-2/${data.id}`}>
@@ -46,14 +48,14 @@ const CourseCardTwo = ({ course }) => {
                 </Link>
               </div>
               <div className="rbt-card-body">
-                <div className="rbt-category">
+                {/* <div className="rbt-category">
                   {data.courseFor &&
                     data.courseFor.map((crs, i) => (
                       <a key={i} href="#">
                         {crs}
                       </a>
                     ))}
-                </div>
+                </div> */}
                 <h4 className="rbt-card-title">
                   <Link href={`/course-detail-2/${data.id}`}>
                     {data.courseTitle}

@@ -1,0 +1,1260 @@
+{
+  "courseTab": [
+    {
+      "id": 1,
+      "courseTitle": "Video Editing Begginer",
+      "category": "Creator Course",
+      "courseType": "featured",
+      "desc": "This comprehensive course takes learners from the fundamentals of video editing to mastering advanced techniques through hands-on projects and industry-standard software. By the end of the course, students will be equipped to create stunning video content for diverse purposes, including social media, films, and professional portfolios.",
+      "lesson": 4,
+      "review": 0,
+      "price": 40000,
+      "offPrice": 30000,
+      "student": 30,
+      "discount": 10000,
+      "sellsType": "Bestseller",
+      "star": "4.8",
+      "ratingNumber": "215",
+      "studentNumber": "616",
+      "cateSmallImg": "/images/category/web-design.png",
+      "cateBigImg": "/images/category/image/web-design.jpg",
+      "userImg": "/images/client/avatar-02.png",
+      "courseImg": "/images/course/course-01.jpg",
+      "courseListImg": "/images/course/course-list-01.jpg",
+      "awardImg": "/images/icons/card-icon-1.png",
+      "days": "3",
+      "isActiveCate": true,
+      "userName": " Mudassir Nazar",
+      "userCategory": "Designing",
+      "cateDesc": "Become a Creator",
+      "date": " 12/2024",
+      "language": "English",
+      "courseAward": "Certified Course",
+      "courseFor": [
+        "Design",
+        "Development"
+      ],
+      "courseOverview": [
+        {
+          "title": "What you'll learn",
+          "desc": "The Video Editing Mastery course is designed for aspiring editors who want to create impactful video content. Starting from foundational concepts like timelines, transitions, and basic cuts, learners progress to advanced techniques such as color grading, multi-camera editing, and professional audio mixing. With a focus on project-based learning, students will gain hands-on experience, producing high-quality video content for personal and professional use. By the end of the course, participants will have a strong portfolio and the confidence to tackle industry challenges.",
+          "descTwo": "Master video editing from basics to advanced techniques in 31 weeks. Build a professional portfolio through real-world projects.",
+          "overviewList": [
+            {
+              "listItem": "Comprehensive Video Editing Journey: This 12-week program equips learners with the skills to edit videos for social media, films, and professional portfolios, starting from the basics to mastering advanced techniques."
+            },
+            {
+              "listItem": "In-Depth Curriculum: Progress through four modules—Introduction, Basic Techniques, Intermediate Techniques, and Project-Based Learning—designed to build a strong foundation and advanced expertise in video editing."
+            },
+            {
+              "listItem": "Industry-Standard Tools: Gain proficiency in software like Adobe Premiere Pro and learn essential techniques like color grading, multi-camera editing, and audio mastering."
+            },
+            {
+              "listItem": "Real-World Projects: Apply your knowledge to hands-on projects, culminating in the creation of a professional video portfolio to showcase your skills."
+            },
+            {
+              "listItem": "Expert Mentorship: Learn from experienced mentors like Mudassir Nazar, who provide personalized guidance and share valuable industry insights."
+            },
+            {
+              "listItem": "Expert Mentorship: Learn from experienced mentors like Mudassir Nazar, who provide personalized guidance and share valuable industry insights."
+            },
+            {
+              "listItem": "Professional Certification: Earn a recognized Professional Certificate in Video Editing Mastery upon completion, boosting your career prospects in the creative media industry."
+            }
+          ]
+        }
+      ],
+      "courseContent": [
+        {
+          "title": "Course Content",
+          "contentList": [
+            {
+              "title": "Introduction to Video Editing",
+              "time": "1 Week",
+              "collapsed": true,
+              "isShow": true,
+              "expand": true,
+              "listItem": [
+                {
+                  "text": "Definition, Importance, and Scope of Digital Marketing",
+                  "time": "30min",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Overview of video editing history, tools, and industry applications.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Learning editing software and workspace setup.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Key editing terms: timeline, transitions, clips, and media library basics.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Basic Video Editing Techniques",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Cutting and trimming clips.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Syncing and editing audio.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Applying basic effects, transitions, and text overlays.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Intermediate Video Editing Techniques",
+              "time": "4 Weeks",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Advanced color correction and grading.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Multi-camera editing and working with slow-motion effects.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Audio mastering: EQ, noise reduction, and mixing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Project-Based Learning and Final Project",
+              "time": "4 Weeks",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Planning, storyboarding, and scripting.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Producing and editing a complete video portfolio.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "courseRequirement": [
+        {
+          "title": "Benefits",
+          "detailsList": [
+            {
+              "listItem": "Master industry-leading tools like Adobe Premiere Pro."
+            },
+            {
+              "listItem": "Learn professional techniques for storytelling and editing."
+            },
+            {
+              "listItem": "Build a versatile portfolio to kickstart your career."
+            },
+            {
+              "listItem": "Flexible and structured learning to suit all skill levels."
+            },
+            {
+              "listItem": "Guidance from experienced mentors.  "
+            }
+          ]
+        }
+      ],
+      "courseInstructor": [
+        {
+          "title": "Instructor",
+          "body": [
+            {
+              "id": 1,
+              "img": "/images/client/avatar-02.png",
+              "awardImg": "/images/icons/card-icon-1.png",
+              "sellsType": "Bestseller",
+              "contact": "+91 81380 60010",
+              "mail": " info@skillersity.com",
+              "name": "Mudassir Nazar",
+              "type": "Creative Director",
+              "ratingNumber": "25",
+              "studentNumber": "30 ",
+              "review": "10",
+              "star": "4.9",
+              "course": "4",
+              "desc": "Mudassir is a brilliant educator, whose life was spent for video editing and love of graphic designing.",
+              "social": [
+                {
+                  "link": "#",
+                  "icon": "facebook"
+                },
+                {
+                  "link": "#",
+                  "icon": "twitter"
+                },
+                {
+                  "link": "#",
+                  "icon": "instagram"
+                },
+                {
+                  "link": "#",
+                  "icon": "linkedin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "featuredReview": [
+        {
+          "title": "Featured review",
+          "body": [
+            {
+              "userImg": "/images/testimonial/testimonial-3.jpg",
+              "userName": "Farjana Bawnia",
+              "desc": "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            }
+          ]
+        }
+      ],
+      "relatedCourse": [
+        {
+          "userName": "Christin P J",
+          "userCategory": "Designing",
+          "body": [
+            {
+              "id": 1,
+              "title": "Advanced Digital Marketing",
+              "author": "Christin P J",
+              "post": " Digital Marketing",
+              "link": "/course-details",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            }
+          ]
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Hrs 20 Min"
+        },
+        {
+          "text": "Enrolled",
+          "desc": "100"
+        },
+        {
+          "text": "Lectures",
+          "desc": "50"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Language",
+          "desc": "English"
+        },
+        {
+          "text": "Quizzes",
+          "desc": "10"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Pass Percentage",
+          "desc": "95"
+        }
+      ],
+      "similarCourse": [
+        {
+          "id": 1,
+          "title": "React Front To Back",
+          "author": "Angela",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-01.jpg",
+          "avatar": "/images/client/avatar-02.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": false,
+          "rating": 15,
+          "discount": 40,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 2,
+          "title": "PHP Beginner Advanced",
+          "author": "Christin P J",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-02.jpg",
+          "avatar": "/images/client/avatar-04.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": true,
+          "rating": 15,
+          "discount": 0,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 3,
+          "title": "Angular Zero to Mastery",
+          "author": "Slaughter",
+          "post": "Languages",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-03.jpg",
+          "avatar": "/images/client/avatar-03.png",
+          "desc": "Angular Js long fact that a reader will be distracted by the readable.",
+          "button": false,
+          "rating": 5,
+          "discount": 10,
+          "lesson": 8,
+          "student": 30,
+          "price": 80,
+          "offPrice": 100
+        }
+      ],
+      "subCategories": [
+        {
+          "cate": "Healthcare"
+        },
+        {
+          "cate": "Beauty & fashion"
+        },
+        {
+          "cate": "Education & Travel"
+        },
+        {
+          "cate": "Kitchen"
+        },
+        {
+          "cate": "Medicle & entertain"
+        },
+        {
+          "cate": "Medicle & Science"
+        },
+        {
+          "cate": "Tour & Travel"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "courseTitle": "Graphic Designing Begginer",
+      "category": "Creator Course",
+      "courseType": "featured",
+      "desc": "Learn professional video editing from basics to advanced techniques, covering tools, creative workflows, and project-based learning to build a standout portfolio.",
+      "lesson": 5,
+      "review": 15,
+      "price": 40000,
+      "offPrice": 30000,
+      "student": 30,
+      "discount": 10000,
+      "sellsType": "Bestseller",
+      "star": "4.9",
+      "ratingNumber": "475",
+      "studentNumber": "029",
+      "cateSmallImg": "/images/category/web-design.png",
+      "cateBigImg": "/images/category/image/web-design.jpg",
+      "userImg": "/images/client/avatar-02.png",
+      "courseImg": "/images/course/course-01.jpg",
+      "courseListImg": "/images/course/course-list-01.jpg",
+      "awardImg": "/images/icons/card-icon-1.png",
+      "days": "12",
+      "isActiveCate": true,
+      "userName": " Mudassir Nazar ",
+      "userCategory": "Designing",
+      "cateDesc": "Become a Creator",
+      "date": " 12/2024",
+      "language": "English",
+      "courseAward": "Certified Course",
+      "courseFor": [
+        "Design",
+        "Development"
+      ],
+      "courseOverview": [
+        {
+          "title": "What you'll learn",
+          "desc": "This comprehensive video editing course takes you on a journey from understanding the fundamentals of editing to mastering advanced techniques like motion graphics and VFX. Over 40 weeks, you’ll develop hands-on skills in industry-standard software, explore creative workflows, and complete a professional video project to showcase your abilities. Ideal for aspiring editors and content creators, this course provides a robust foundation in video storytelling.",
+          "descTwo": "",
+          "overviewList": [
+            {
+              "listItem": "Comprehensive Video Editing Curriculum: Cover everything from the basics of video editing to advanced techniques, including motion graphics and VFX, over a structured 12-week program."
+            },
+            {
+              "listItem": "Hands-On Learning Approach: Engage in project-based learning, culminating in a professional-quality video project to showcase your creative and technical expertise."
+            },
+            {
+              "listItem": "Master Industry-Standard Tools: Gain proficiency in software like Adobe Premiere Pro, After Effects, and Final Cut Pro, and learn techniques such as color grading, multi-camera editing, and motion graphics."
+            },
+            {
+              "listItem": "Collaborative Environment with Expert Mentorship: Receive guidance from experienced mentors, including Mudassir Nazar, and collaborate with peers to enhance your creative and technical skills."
+            },
+            {
+              "listItem": "Build a Standout Portfolio: Create a polished, professional portfolio through real-world projects, preparing you for opportunities in video editing and creative media industries."
+            },
+            {
+              "listItem": "Earn a Recognized Certificate: Boost your career prospects with a completion certificate that validates your expertise and dedication to mastering video editing."
+            }
+          ]
+        }
+      ],
+      "courseContent": [
+        {
+          "title": "Course Content",
+          "contentList": [
+            {
+              "title": " Introduction to Video Editing",
+              "time": "1 Week",
+              "collapsed": true,
+              "isShow": true,
+              "expand": true,
+              "listItem": [
+                {
+                  "text": "History and types of video content.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Key software tools (e.g., Premiere Pro, Final Cut Pro).",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Video editing terms: timeline, cuts, transitions, codecs.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Setting up an efficient workspace.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Basic Video Editing Techniques",
+              "time": "2 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Cutting and trimming.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Audio synchronization and editing basics.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Transitions, text overlays, and keyframing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": " Intermediate Video Editing Techniques",
+              "time": "1 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Color correction and grading.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Multi-camera editing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Slow motion, time-lapse, and audio mixing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Advanced Editing Techniques and Motion Graphics",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Chroma keying and masks.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Motion graphics with After Effects.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Custom transitions and basic 2D animation.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Project-Based Learning and Final Project",
+              "time": "1 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Storyboarding, scriptwriting, and workflow planning.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Completing a final video project with advanced editing techniques.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "courseRequirement": [
+        {
+          "title": "Benefits",
+          "detailsList": [
+            {
+              "listItem": "Master industry-standard tools like Adobe Premiere Pro and After Effects."
+            },
+            {
+              "listItem": "Build a professional portfolio with hands-on projects."
+            },
+            {
+              "listItem": "Gain expertise in color grading, motion graphics, and multi camera editing."
+            },
+            {
+              "listItem": "Learn from experienced mentors in a collaborative environment."
+            },
+            {
+              "listItem": "Receive a completion certificate to enhance your career opportunities."
+            }
+          ]
+        }
+      ],
+      "courseInstructor": [
+        {
+          "title": "Instructor",
+          "body": [
+            {
+              "id": 1,
+              "img": "/images/client/avatar-02.png",
+              "awardImg": "/images/icons/card-icon-1.png",
+              "sellsType": "Bestseller",
+              "contact": "+91 81380 60010",
+              "mail": " info@skillersity.com",
+              "name": "Mudassir Nazar",
+              "type": "Creative Director",
+              "ratingNumber": "25",
+              "studentNumber": "30 ",
+              "review": "10",
+              "star": "4.9",
+              "course": "4",
+              "desc": "Mudassir is a brilliant educator, whose life was spent for video editing and love of graphic designing.",
+              "social": [
+                {
+                  "link": "https://www.facebook.com/people/Skillersity/61569769297477/",
+                  "icon": "facebook"
+                },
+                {
+                  "link": "https://www.twitter.com",
+                  "icon": "twitter"
+                },
+                {
+                  "link": "#",
+                  "icon": "instagram"
+                },
+                {
+                  "link": "#",
+                  "icon": "linkedin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "featuredReview": [
+        {
+          "title": "Featured review",
+          "body": [
+            {
+              "userImg": "/images/testimonial/testimonial-3.jpg",
+              "userName": "Farjana Bawnia",
+              "desc": "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            }
+          ]
+        }
+      ],
+      "relatedCourse": [
+        {
+          "userName": "Christin P J",
+          "userCategory": "Designing",
+          "body": [
+            {
+              "id": 1,
+              "title": "Advanced Digital Marketing",
+              "author": "Christin P J",
+              "post": " Digital Marketing",
+              "link": "/course-details",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            }
+          ]
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Hrs 20 Min"
+        },
+        {
+          "text": "Enrolled",
+          "desc": "100"
+        },
+        {
+          "text": "Lectures",
+          "desc": "50"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Language",
+          "desc": "English"
+        },
+        {
+          "text": "Quizzes",
+          "desc": "10"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Pass Percentage",
+          "desc": "95"
+        }
+      ],
+      "similarCourse": [
+        {
+          "id": 1,
+          "title": "React Front To Back",
+          "author": "Angela",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-01.jpg",
+          "avatar": "/images/client/avatar-02.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": false,
+          "rating": 15,
+          "discount": 40,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 2,
+          "title": "PHP Beginner Advanced",
+          "author": "Christin P J",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-02.jpg",
+          "avatar": "/images/client/avatar-04.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": true,
+          "rating": 15,
+          "discount": 0,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 3,
+          "title": "Angular Zero to Mastery",
+          "author": "Slaughter",
+          "post": "Languages",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-03.jpg",
+          "avatar": "/images/client/avatar-03.png",
+          "desc": "Angular Js long fact that a reader will be distracted by the readable.",
+          "button": false,
+          "rating": 5,
+          "discount": 10,
+          "lesson": 8,
+          "student": 30,
+          "price": 80,
+          "offPrice": 100
+        }
+      ],
+      "subCategories": [
+        {
+          "cate": "Healthcare"
+        },
+        {
+          "cate": "Beauty & fashion"
+        },
+        {
+          "cate": "Education & Travel"
+        },
+        {
+          "cate": "Kitchen"
+        },
+        {
+          "cate": "Medicle & entertain"
+        },
+        {
+          "cate": "Medicle & Science"
+        },
+        {
+          "cate": "Tour & Travel"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "courseTitle": "Digital Marketing Begginer",
+      "category": "Creator Course",
+      "courseType": "featured",
+      "desc": "This comprehensive course takes you through the fundamentals and advanced techniques of four essential graphic design tools: Adobe Photoshop, Illustrator, InDesign, and CorelDRAW. Gain hands-on experience in designing, editing, and preparing projects for both print and digital platforms.",
+      "lesson": 5,
+      "review": 15,
+      "price": 40000,
+      "offPrice": 30000,
+      "student": 30,
+      "discount": 10000,
+      "sellsType": "Bestseller",
+      "star": "4.9",
+      "ratingNumber": "475",
+      "studentNumber": "029",
+      "cateSmallImg": "/images/category/web-design.png",
+      "cateBigImg": "/images/category/image/web-design.jpg",
+      "userImg": "/images/client/avatar-02.png",
+      "courseImg": "/images/course/course-01.jpg",
+      "courseListImg": "/images/course/course-list-01.jpg",
+      "awardImg": "/images/icons/card-icon-1.png",
+      "days": "12",
+      "isActiveCate": true,
+      "userName": " Mudassir Nazar ",
+      "userCategory": "Designing",
+      "cateDesc": "Become a Creator",
+      "date": " 12/2024",
+      "language": "English",
+      "courseAward": "Certified Course",
+      "courseFor": [
+        "Design"
+      ],
+      "courseOverview": [
+        {
+          "title": "What you'll learn",
+          "desc": "Become a proficient graphic designer with our in-depth training program that spans four major design tools—Photoshop, Illustrator, InDesign, and CorelDRAW. This course covers everything from the basics of creating shapes and understanding layers to advanced techniques like working with vector paths, 3D text, and preparing projects for print and web. Each module culminates in a portfolio project to showcase your skills.",
+          "descTwo": "Master the essential graphic design tools with our 14-week program, covering Adobe Photoshop, Illustrator, InDesign, and CorelDRAW to prepare you for professional design projects.",
+          "overviewList": [
+            {
+              "listItem": "Master Industry-Standard Graphic Design Tools: Develop expertise in Adobe Photoshop, Illustrator, InDesign, and CorelDRAW, gaining skills to handle diverse design projects with confidence."
+            },
+            {
+              "listItem": "Comprehensive Curriculum: Progress from foundational concepts like layers and typography to advanced techniques such as vector paths, 3D text, and interactive digital publishing."
+            },
+            {
+              "listItem": "Master Industry-Standard Tools: Gain proficiency in software like Adobe Premiere Pro, After Effects, and Final Cut Pro, and learn techniques such as color grading, multi-camera editing, and motion graphics."
+            },
+            {
+              "listItem": "Portfolio-Driven Learning: Complete real-world design projects for each module, building a professional portfolio that demonstrates your skills in print and digital media."
+            },
+            {
+              "listItem": "Expert Mentorship: Learn from seasoned mentors like Mudassir Nazar, who provide hands-on guidance and valuable industry insights."
+            },
+            {
+              "listItem": "Advanced Design Techniques: Explore color theory, photo editing, logo design, and advanced layout techniques to create impactful visual designs."
+            },
+            {
+              "listItem": "Career Advancement Certification: Earn a Certificate of Completion that enhances your professional credentials and opens doors to advanced career opportunities in graphic design."
+            }
+          ]
+        }
+      ],
+      "courseContent": [
+        {
+          "title": "Course Content",
+          "contentList": [
+            {
+              "title": "Adobe Photoshop:",
+              "time": "1 Week",
+              "collapsed": true,
+              "isShow": true,
+              "expand": true,
+              "listItem": [
+                {
+                  "text": "Introduction to Photoshop Interface & Tools.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Working with Layers & Layer Styles.",
+                  "time": "",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Selections & Masking Techniques.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Typography in Design.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Color Theory & Photo Editing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Advanced Design Techniques.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Adobe Illustrator",
+              "time": "2 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Introduction to Illustrator Interface.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Pen Tool Mastery & Shape Creation.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Working with Gradients & Color.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Typography & Text Effects.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Logo Design Fundamentals.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "Adobe InDesign",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Document Setup & Layout Principles.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Typography in InDesign.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Images & Graphics Management.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Advanced Layout Techniques.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Digital Publishing & Interactive Documents.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            },
+            {
+              "title": "CorelDRAW",
+              "time": "3 Week",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "CorelDRAW Workspace & Basics.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Pen Tool & Path Editing.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Color Application & Text Effects.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Advanced Shape Manipulation",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Preparing Artwork for Print & Digital",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "courseRequirement": [
+        {
+          "title": "Benefits",
+          "detailsList": [
+            {
+              "listItem": "Hands-on experience with industry-standard software."
+            },
+            {
+              "listItem": "Portfolio-worthy final projects for each module."
+            },
+            {
+              "listItem": "Professional guidance from expert mentors."
+            },
+            {
+              "listItem": "Preparation for both print and digital media."
+            },
+            {
+              "listItem": "Certificate of Completion to enhance your career prospects."
+            }
+          ]
+        }
+      ],
+      "courseInstructor": [
+        {
+          "title": "Instructor",
+          "body": [
+            {
+              "id": 1,
+              "img": "/images/client/avatar-02.png",
+              "awardImg": "/images/icons/card-icon-1.png",
+              "sellsType": "Bestseller",
+              "contact": "+91 81380 60010",
+              "mail": " info@skillersity.com",
+              "name": "Mudassir Nazar",
+              "type": "Creative Director",
+              "ratingNumber": "25",
+              "studentNumber": "30 ",
+              "review": "10",
+              "star": "4.9",
+              "course": "4",
+              "desc": "Mudassir is a brilliant educator, whose life was spent for video editing and love of graphic designing.",
+              "social": [
+                {
+                  "link": "#",
+                  "icon": "facebook"
+                },
+                {
+                  "link": "#",
+                  "icon": "twitter"
+                },
+                {
+                  "link": "#",
+                  "icon": "instagram"
+                },
+                {
+                  "link": "#",
+                  "icon": "linkedin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "featuredReview": [
+        {
+          "title": "Featured review",
+          "body": [
+            {
+              "userImg": "/images/testimonial/testimonial-3.jpg",
+              "userName": "Farjana Bawnia",
+              "desc": "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            }
+          ]
+        }
+      ],
+      "relatedCourse": [
+        {
+          "userName": " Mudassir Nazar ",
+          "userCategory": "Designing",
+          "body": [
+            {
+              "id": 1,
+              "title": "Advanced Digital Marketing",
+              "author": "Christin P J",
+              "post": " Digital Marketing",
+              "link": "/course-details",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            }
+          ]
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Hrs 20 Min"
+        },
+        {
+          "text": "Enrolled",
+          "desc": "100"
+        },
+        {
+          "text": "Lectures",
+          "desc": "50"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Language",
+          "desc": "English"
+        },
+        {
+          "text": "Quizzes",
+          "desc": "10"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Pass Percentage",
+          "desc": "95"
+        }
+      ],
+      "similarCourse": [
+        {
+          "id": 1,
+          "title": "React Front To Back",
+          "author": "Angela",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-01.jpg",
+          "avatar": "/images/client/avatar-02.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": false,
+          "rating": 15,
+          "discount": 40,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 2,
+          "title": "PHP Beginner Advanced",
+          "author": "Claudia Pruitt",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-02.jpg",
+          "avatar": "/images/client/avatar-04.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": true,
+          "rating": 15,
+          "discount": 0,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "id": 3,
+          "title": "Angular Zero to Mastery",
+          "author": "Slaughter",
+          "post": "Languages",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-03.jpg",
+          "avatar": "/images/client/avatar-03.png",
+          "desc": "Angular Js long fact that a reader will be distracted by the readable.",
+          "button": false,
+          "rating": 5,
+          "discount": 10,
+          "lesson": 8,
+          "student": 30,
+          "price": 80,
+          "offPrice": 100
+        }
+      ],
+      "subCategories": [
+        {
+          "cate": "Healthcare"
+        },
+        {
+          "cate": "Beauty & fashion"
+        },
+        {
+          "cate": "Education & Travel"
+        },
+        {
+          "cate": "Kitchen"
+        },
+        {
+          "cate": "Medicle & entertain"
+        },
+        {
+          "cate": "Medicle & Science"
+        },
+        {
+          "cate": "Tour & Travel"
+        }
+      ]
+    }
+  ]
+}
