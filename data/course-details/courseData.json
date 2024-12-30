@@ -24,7 +24,7 @@
       "awardImg": "/images/icons/card-icon-1.png",
       "days": "3",
       "isActiveCate": true,
-      "userName": " Mudassir Nazar",
+      "userName": " Mudassir Nazar ",
       "userCategory": "Designing",
       "cateDesc": "Become a Creator",
       "date": " 12/2024",
@@ -53,10 +53,10 @@
               "listItem": "Real-World Projects: Apply your knowledge to hands-on projects, culminating in the creation of a professional video portfolio to showcase your skills."
             },
             {
-              "listItem": "Expert Mentorship: Learn from experienced mentors like Mudassir Nazar, who provide personalized guidance and share valuable industry insights."
+              "listItem": "Expert Mentorship: Learn from experienced mentors like Mudassir Nazar , who provide personalized guidance and share valuable industry insights."
             },
             {
-              "listItem": "Expert Mentorship: Learn from experienced mentors like Mudassir Nazar, who provide personalized guidance and share valuable industry insights."
+              "listItem": "Expert Mentorship: Learn from experienced mentors like Mudassir Nazar , who provide personalized guidance and share valuable industry insights."
             },
             {
               "listItem": "Professional Certification: Earn a recognized Professional Certificate in Video Editing Mastery upon completion, boosting your career prospects in the creative media industry."
@@ -212,7 +212,7 @@
               "sellsType": "Bestseller",
               "contact": "+91 81380 60010",
               "mail": " info@skillersity.com",
-              "name": "Mudassir Nazar",
+              "name": "Mudassir Nazar ",
               "type": "Creative Director",
               "ratingNumber": "25",
               "studentNumber": "30 ",
@@ -256,15 +256,66 @@
       ],
       "relatedCourse": [
         {
-          "userName": "Christin P J",
+          "userName": "Christin P J ",
           "userCategory": "Designing",
           "body": [
             {
               "id": 1,
-              "title": "Advanced Digital Marketing",
-              "author": "Christin P J",
-              "post": " Digital Marketing",
-              "link": "/course-details",
+              "title": "Video Editing Advanced",
+              "author": "Mudassir Nazar ",
+              "post": "Graphic Design",
+              "link": "/course-details-free",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            },
+            {
+              "id": 2,
+              "title": "AI-Enhanced Digital Marketing + Video Editing Mastery",
+              "author": "Mudassir Nazar ",
+              "post": "Graphic Design",
+              "link": "/course-details-free",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            },
+            {
+              "id": 3,
+              "title": "AI-Enhanced Digital Marketing + Graphic Designing + Video Editing Mastery",
+              "author": "Mudassir Nazar ",
+              "post": "Graphic Design",
+              "link": "/course-details-free",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            },
+            {
+              "id": 4,
+              "title": "Video Editing + Graphic design Mastery Program",
+              "author": "Mudassir Nazar ",
+              "post": "Graphic Design",
+              "link": "/course-details-free",
               "img": "/images/course/course-online-01.jpg",
               "avatar": "/images/client/avatar-02.png",
               "desc": "",
@@ -417,7 +468,7 @@
       "awardImg": "/images/icons/card-icon-1.png",
       "days": "12",
       "isActiveCate": true,
-      "userName": " Mudassir Nazar ",
+      "userName": " Mudassir Nazar  ",
       "userCategory": "Designing",
       "cateDesc": "Become a Creator",
       "date": " 12/2024",
@@ -443,7 +494,7 @@
               "listItem": "Master Industry-Standard Tools: Gain proficiency in software like Adobe Premiere Pro, After Effects, and Final Cut Pro, and learn techniques such as color grading, multi-camera editing, and motion graphics."
             },
             {
-              "listItem": "Collaborative Environment with Expert Mentorship: Receive guidance from experienced mentors, including Mudassir Nazar, and collaborate with peers to enhance your creative and technical skills."
+              "listItem": "Collaborative Environment with Expert Mentorship: Receive guidance from experienced mentors, including Mudassir Nazar , and collaborate with peers to enhance your creative and technical skills."
             },
             {
               "listItem": "Build a Standout Portfolio: Create a polished, professional portfolio through real-world projects, preparing you for opportunities in video editing and creative media industries."
@@ -629,7 +680,7 @@
               "sellsType": "Bestseller",
               "contact": "+91 81380 60010",
               "mail": " info@skillersity.com",
-              "name": "Mudassir Nazar",
+              "name": "Mudassir Nazar ",
               "type": "Creative Director",
               "ratingNumber": "25",
               "studentNumber": "30 ",
@@ -673,15 +724,66 @@
       ],
       "relatedCourse": [
         {
-          "userName": "Christin P J",
+          "userName": "Christin P J ",
           "userCategory": "Designing",
           "body": [
             {
               "id": 1,
-              "title": "Advanced Digital Marketing",
-              "author": "Christin P J",
-              "post": " Digital Marketing",
-              "link": "/course-details",
+              "title": "Video Editing Intermediate",
+              "author": "Mudassir Nazar ",
+              "post": "Graphic Design",
+              "link": "/course-details-free",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            },
+            {
+              "id": 2,
+              "title": "AI-Enhanced Digital Marketing + Video Editing Mastery",
+              "author": "Mudassir Nazar ",
+              "post": "Graphic Design",
+              "link": "/course-details-free",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            },
+            {
+              "id": 3,
+              "title": "AI-Enhanced Digital Marketing + Graphic Designing + Video Editing Mastery",
+              "author": "Mudassir Nazar ",
+              "post": "Graphic Design",
+              "link": "/course-details-free",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-02.png",
+              "desc": "",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            },
+            {
+              "id": 4,
+              "title": "Video Editing + Graphic design Mastery Program",
+              "author": "Mudassir Nazar ",
+              "post": "Graphic Design",
+              "link": "/course-details-free",
               "img": "/images/course/course-online-01.jpg",
               "avatar": "/images/client/avatar-02.png",
               "desc": "",
@@ -834,7 +936,7 @@
       "awardImg": "/images/icons/card-icon-1.png",
       "days": "12",
       "isActiveCate": true,
-      "userName": " Mudassir Nazar ",
+      "userName": " Mudassir Nazar  ",
       "userCategory": "Designing",
       "cateDesc": "Become a Creator",
       "date": " 12/2024",
@@ -862,7 +964,7 @@
               "listItem": "Portfolio-Driven Learning: Complete real-world design projects for each module, building a professional portfolio that demonstrates your skills in print and digital media."
             },
             {
-              "listItem": "Expert Mentorship: Learn from seasoned mentors like Mudassir Nazar, who provide hands-on guidance and valuable industry insights."
+              "listItem": "Expert Mentorship: Learn from seasoned mentors like Mudassir Nazar , who provide hands-on guidance and valuable industry insights."
             },
             {
               "listItem": "Advanced Design Techniques: Explore color theory, photo editing, logo design, and advanced layout techniques to create impactful visual designs."
@@ -1075,7 +1177,7 @@
               "sellsType": "Bestseller",
               "contact": "+91 81380 60010",
               "mail": " info@skillersity.com",
-              "name": "Mudassir Nazar",
+              "name": "Mudassir Nazar ",
               "type": "Creative Director",
               "ratingNumber": "25",
               "studentNumber": "30 ",
@@ -1119,13 +1221,13 @@
       ],
       "relatedCourse": [
         {
-          "userName": " Mudassir Nazar ",
+          "userName": " Mudassir Nazar  ",
           "userCategory": "Designing",
           "body": [
             {
               "id": 1,
               "title": "Advanced Digital Marketing",
-              "author": "Christin P J",
+              "author": "Christin P J ",
               "post": " Digital Marketing",
               "link": "/course-details",
               "img": "/images/course/course-online-01.jpg",
@@ -1280,7 +1382,7 @@
       "awardImg": "/images/icons/card-icon-1.png",
       "days": "12",
       "isActiveCate": true,
-      "userName": " Christin P J ",
+      "userName": " Christin P J  ",
       "userCategory": "Marketing",
       "cateDesc": "Become a Creator",
       "date": " 12/2024",
@@ -1479,7 +1581,7 @@
               "sellsType": "Bestseller",
               "contact": "+91 81380 60010",
               "mail": " info@skillersity.com",
-              "name": "Christin P J",
+              "name": "Christin P J ",
               "type": "Digital Marketing Expert",
               "ratingNumber": "25",
               "studentNumber": "30 ",
@@ -1523,13 +1625,13 @@
       ],
       "relatedCourse": [
         {
-          "userName": " Mudassir Nazar ",
+          "userName": " Mudassir Nazar  ",
           "userCategory": "Designing",
           "body": [
             {
               "id": 1,
               "title": "Advanced Digital Marketing",
-              "author": "Christin P J",
+              "author": "Christin P J ",
               "post": " Digital Marketing",
               "link": "/course-details",
               "img": "/images/course/course-online-01.jpg",
@@ -1684,7 +1786,7 @@
       "awardImg": "/images/icons/card-icon-1.png",
       "days": "12",
       "isActiveCate": true,
-      "userName": " Mudassir Nazar ",
+      "userName": " Mudassir Nazar  ",
       "userCategory": "Creator Course",
       "cateDesc": "Become a Creator",
       "date": " 12/2024",
@@ -1913,7 +2015,7 @@
               "sellsType": "Bestseller",
               "contact": "+91 81380 60010",
               "mail": " info@skillersity.com",
-              "name": "Mudassir Nazar",
+              "name": "Mudassir Nazar ",
               "type": "Creative Director",
               "ratingNumber": "25",
               "studentNumber": "30 ",
@@ -1957,13 +2059,13 @@
       ],
       "relatedCourse": [
         {
-          "userName": " Mudassir Nazar ",
+          "userName": " Mudassir Nazar  ",
           "userCategory": "Designing",
           "body": [
             {
               "id": 1,
               "title": "Advanced Digital Marketing",
-              "author": "Christin P J",
+              "author": "Christin P J ",
               "post": " Digital Marketing",
               "link": "/course-details",
               "img": "/images/course/course-online-01.jpg",
@@ -2118,7 +2220,7 @@
       "awardImg": "/images/icons/card-icon-1.png",
       "days": "12",
       "isActiveCate": true,
-      "userName": " Christin P J ",
+      "userName": " Christin P J  ",
       "userCategory": "Marketing Course",
       "cateDesc": "",
       "date": " 12/2024",
@@ -2281,7 +2383,7 @@
               "sellsType": "Bestseller",
               "contact": "+91 81380 60010",
               "mail": " info@skillersity.com",
-              "name": "Christin P J",
+              "name": "Christin P J ",
               "type": "Digital Marketing Expert",
               "ratingNumber": "25",
               "studentNumber": "30 ",
@@ -2325,13 +2427,13 @@
       ],
       "relatedCourse": [
         {
-          "userName": " Christin P J ",
+          "userName": " Christin P J  ",
           "userCategory": "Marketing",
           "body": [
             {
               "id": 1,
               "title": "Advanced Digital Marketing",
-              "author": "Christin P J",
+              "author": "Christin P J ",
               "post": " Digital Marketing",
               "link": "/course-details",
               "img": "/images/course/course-online-01.jpg",
@@ -2486,7 +2588,7 @@
       "awardImg": "/images/icons/card-icon-1.png",
       "days": "12",
       "isActiveCate": true,
-      "userName": " Christin P J ",
+      "userName": " Christin P J  ",
       "userCategory": "Marketing Course",
       "cateDesc": "",
       "date": " 12/2024",
@@ -2661,7 +2763,7 @@
               "sellsType": "Bestseller",
               "contact": "+91 81380 60010",
               "mail": " info@skillersity.com",
-              "name": "Christin P J",
+              "name": "Christin P J ",
               "type": "Digital Marketing Expert",
               "ratingNumber": "25",
               "studentNumber": "30 ",
@@ -2705,13 +2807,13 @@
       ],
       "relatedCourse": [
         {
-          "userName": " Christin P J ",
+          "userName": " Christin P J  ",
           "userCategory": "Marketing",
           "body": [
             {
               "id": 1,
               "title": "Advanced Digital Marketing",
-              "author": "Christin P J",
+              "author": "Christin P J ",
               "post": " Digital Marketing",
               "link": "/course-details",
               "img": "/images/course/course-online-01.jpg",
@@ -2866,7 +2968,7 @@
       "awardImg": "/images/icons/card-icon-1.png",
       "days": "12",
       "isActiveCate": true,
-      "userName": " Christin P J ",
+      "userName": " Christin P J  ",
       "userCategory": "Marketing & Creator Course",
       "cateDesc": "Creator Pro",
       "date": " 12/2024",
@@ -3086,7 +3188,7 @@
               "sellsType": "Bestseller",
               "contact": "+91 81380 60010",
               "mail": " info@skillersity.com",
-              "name": "Christin P J",
+              "name": "Christin P J ",
               "type": "Digital Marketing Expert",
               "ratingNumber": "25",
               "studentNumber": "30 ",
@@ -3130,13 +3232,13 @@
       ],
       "relatedCourse": [
         {
-          "userName": " Christin P J ",
+          "userName": " Christin P J  ",
           "userCategory": "Marketing",
           "body": [
             {
               "id": 1,
               "title": "Advanced Digital Marketing",
-              "author": "Christin P J",
+              "author": "Christin P J ",
               "post": " Digital Marketing",
               "link": "/course-details",
               "img": "/images/course/course-online-01.jpg",
@@ -3291,7 +3393,7 @@
       "awardImg": "/images/icons/card-icon-1.png",
       "days": "12",
       "isActiveCate": true,
-      "userName": " Christin P J ",
+      "userName": " Christin P J  ",
       "userCategory": "Marketing & Creator Course",
       "cateDesc": "",
       "date": " 12/2024",
@@ -3529,7 +3631,7 @@
               "sellsType": "Bestseller",
               "contact": "+91 81380 60010",
               "mail": " info@skillersity.com",
-              "name": "Christin P J",
+              "name": "Christin P J ",
               "type": "Digital Marketing Expert",
               "ratingNumber": "25",
               "studentNumber": "30 ",
@@ -3573,13 +3675,13 @@
       ],
       "relatedCourse": [
         {
-          "userName": " Christin P J ",
+          "userName": " Christin P J  ",
           "userCategory": "Marketing",
           "body": [
             {
               "id": 1,
               "title": "Advanced Digital Marketing",
-              "author": "Christin P J",
+              "author": "Christin P J ",
               "post": " Digital Marketing",
               "link": "/course-details",
               "img": "/images/course/course-online-01.jpg",
@@ -3734,7 +3836,7 @@
       "awardImg": "/images/icons/card-icon-1.png",
       "days": "12",
       "isActiveCate": true,
-      "userName": " Christin P J ",
+      "userName": " Christin P J  ",
       "userCategory": "Marketing & Creator Course",
       "cateDesc": "Creator Ultimate",
       "date": " 12/2024",
@@ -3978,7 +4080,7 @@
               "sellsType": "Bestseller",
               "contact": "+91 81380 60010",
               "mail": " info@skillersity.com",
-              "name": "Christin P J",
+              "name": "Christin P J ",
               "type": "Digital Marketing Expert",
               "ratingNumber": "25",
               "studentNumber": "30 ",
@@ -4022,13 +4124,13 @@
       ],
       "relatedCourse": [
         {
-          "userName": " Christin P J ",
+          "userName": " Christin P J  ",
           "userCategory": "Marketing",
           "body": [
             {
               "id": 1,
               "title": "Advanced Digital Marketing",
-              "author": "Christin P J",
+              "author": "Christin P J ",
               "post": " Digital Marketing",
               "link": "/course-details",
               "img": "/images/course/course-online-01.jpg",

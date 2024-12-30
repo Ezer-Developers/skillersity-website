@@ -67,7 +67,7 @@ const Viedo = ({ checkMatchCourses }) => {
           data-vbtype="video"
           href="https://www.youtube.com/watch?v=AxAF3zQPJeg"
         >
-          <div className="video-content">
+          {/* <div className="video-content">
             {checkMatchCourses.courseImg && (
               <Image
                 className="w-100 rbt-radius"
@@ -85,7 +85,7 @@ const Viedo = ({ checkMatchCourses }) => {
             <span className="play-view-text d-block color-white">
               <i className="feather-eye"></i> Preview this course
             </span>
-          </div>
+          </div> */}
         </Link>
       ) : (
         ""

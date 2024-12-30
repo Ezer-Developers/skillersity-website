@@ -10,7 +10,7 @@ const SimilarCourses = ({ checkMatchCourses }) => {
           <span className="subtitle bg-primary-opacity">
             More Similar Courses
           </span>
-          <h4 className="title">Related Courses</h4>
+          <h4 className="title">More Course For You</h4>
         </div>
         <div className="row g-5">
           {checkMatchCourses &&

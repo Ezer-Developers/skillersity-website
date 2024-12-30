@@ -68,7 +68,7 @@ authorId: 1
 authorImg: "/images/testimonial/testimonial-7.jpg"
 addImgOne: "/images/blog/blog-bl-02.jpg"
 addImgTwo: "/images/blog/blog-bl-02.jpg"
-name: "Christin P J"
+name: "Christin P J "
 position: " Digital Marketing"
 imgPoster: [
    {
@@ -120,7 +120,7 @@ social: [
 ]
 author: [
     {
-          name: "Christin P J",
+          name: "Christin P J ",
           img: "/images/testimonial/testimonial-4.jpg",
           about: "Sr. UX Designer",
           info: "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top.",
