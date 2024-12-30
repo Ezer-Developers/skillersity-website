@@ -16,7 +16,7 @@ import Separator from "@/components/Common/Separator";
 import CourseCardTwo from "@/components/Category/Filter/CourseOffers";
 
 const CourseMasonryLayout = () => {
-  let getAllCourse = JSON.parse(JSON.stringify(CourseDetails.courseTab));
+  let getAllCourse = JSON.parse(JSON.stringify(CourseDetails.courseDetails));
   const [courseFilter, setCourseFilter] = useState(getAllCourse);
 
   const filterItem = (types) => {

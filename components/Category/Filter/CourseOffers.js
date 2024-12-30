@@ -38,7 +38,7 @@ const CourseCardTwo = ({ course }) => {
               }`}
             >
               <div className="rbt-card-img">
-                <Link href={`/course-detail-2/${data.id}`}>
+                <Link href={`/course-details-free/${data.id}`}>
                   <Image
                     src={data.courseImg}
                     width={235}
@@ -57,7 +57,7 @@ const CourseCardTwo = ({ course }) => {
                     ))}
                 </div> */}
                 <h4 className="rbt-card-title">
-                  <Link href={`/course-detail-2/${data.id}`}>
+                  <Link href={`/course-details-free/${data.id}`}>
                     {data.courseTitle}
                   </Link>
                 </h4>
@@ -74,7 +74,7 @@ const CourseCardTwo = ({ course }) => {
                 <div className="rbt-card-bottom">
                   <Link
                     className="transparent-button"
-                    href={`/course-detail-2/${data.id}`}
+                    href={`/course-details-free${data.id}`}
                   >
                     Learn More
                     <i className="feather-arrow-right"></i>
