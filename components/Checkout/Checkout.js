@@ -44,6 +44,12 @@ const Checkout = () => {
                     Shipping Fee <span>${shipping_fee}.00</span>
                   </p>
 
+                  <div className="col-md-6 col-12 mb--20 mt--20" style={{ width: '100%' }}>
+                    <label htmlFor="coupon-code">Coupon Code</label>
+                    <input id="coupon-code" type="text" placeholder="Coupon Code" />
+                    <button className="rbt-btn btn-gradient hover-icon-reverse" type="button">Apply Coupon Code</button>
+                  </div>
+
                   <h4 className="mt--30">
                     Grand Total <span>${total_amount + shipping_fee}.00</span>
                   </h4>
